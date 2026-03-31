@@ -1,3 +1,6 @@
+## [0.7.14] - 2026-03-31
+- Ujednolicenie wysokości wierszy na listach dostawców, zamówień i tabelach ustawień.
+
 ## [0.7.13] - 2026-03-31
 - Ukrycie listy dostawców podczas edycji lub dodawania dostawcy.
 
