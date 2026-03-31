@@ -1,3 +1,6 @@
+## [0.7.41] - 2026-04-01
+- Ostateczne wyrównanie przycisków Dodaj i Anuluj w formularzu dodawania plików do zamówienia przez nadanie im tego samego wrappera form-group i pustej etykiety-placeholdera co polom po lewej.
+
 ## [0.7.40] - 2026-03-31
 - Dalsze wyrównanie przycisków Dodaj i Anuluj w formularzu dodawania plików do zamówienia przez usunięcie sztucznego labela i ustawienie czystego offsetu CSS zgodnego z wysokością etykiet pól.
 
