@@ -1,3 +1,6 @@
+## [0.7.7] - 2026-03-31
+- Zmiana ikony głównego wpisu BO i zakładki produktów na statek.
+
 ## [0.7.6] - 2026-03-31
 - Naprawa etykiety menu BO: klucz inventory_menu jest teraz poprawnie mapowany na tekst CargoStock.
 
