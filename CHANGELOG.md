@@ -1,3 +1,6 @@
+## [0.6.8] - 2026-03-31
+- Produkty w BO znów używają sprawdzonych uprawnień legacy `AdminCargoStockManager` dla routingu i AJAX, co usuwa komunikat `Access Denied` po dodaniu child taba `Produkty`.
+
 ## [0.6.7] - 2026-03-31
 - Uzupełnione dane przekazywane do `configure.tpl`: konfiguracja modułu dostaje teraz komplet wymaganych zmiennych Smarty, w tym komunikaty, URL AJAX, przewoźników, typy dokumentów i opcje Incoterms.
 
