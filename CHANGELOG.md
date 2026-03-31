@@ -1,3 +1,6 @@
+## [0.7.12] - 2026-03-31
+- Wyrównanie górnego położenia pierwszego panelu w zakładce Ustawienia w nowoczesnym BO.
+
 ## [0.7.11] - 2026-03-31
 - Zmiana ikony zakładki Produkty na category.
 
