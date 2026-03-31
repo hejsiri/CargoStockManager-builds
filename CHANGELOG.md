@@ -1,3 +1,6 @@
+## [0.7.26] - 2026-03-31
+- Próba przepięcia nowoczesnych zakładek modułu na natywny komponent nav-tabs PrestaShop z ograniczeniem własnego CSS do ikon i odstępów.
+
 ## [0.7.25] - 2026-03-31
 - Zmniejszenie wysokości paska zakładek BO o 6 px w nowoczesnym layoucie modułu.
 
