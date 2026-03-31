@@ -1,3 +1,7 @@
+## [0.6.4] - 2026-03-31
+- Utwardzona instalacja i aktualizacja tabów BO: moduł sprawdza teraz taby także bezpośrednio w bazie, co zapobiega duplikatom i błędom SQL przy częściowo zaktualizowanym stanie menu.
+- Zachowane podmenu `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`.
+
 ## [0.6.3] - 2026-03-31
 - Dodane podmenu BO pod `CargoStock Manager`: `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`.
 - Widok produktów został przepięty na osobny child tab `AdminCargoStockManagerProducts`, dzięki czemu struktura menu jest pełna i spójna.
