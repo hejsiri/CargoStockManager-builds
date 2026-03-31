@@ -1,3 +1,6 @@
+## [0.6.5] - 2026-03-31
+- Naprawiony błąd SQL na MariaDB podczas sprawdzania istnienia tabel modułu. Moduł nie używa już `SHOW TABLES LIKE ...` w miejscu, gdzie PrestaShop dopisuje `LIMIT 1`.
+
 ## [0.6.4] - 2026-03-31
 - Utwardzona instalacja i aktualizacja tabów BO: moduł sprawdza teraz taby także bezpośrednio w bazie, co zapobiega duplikatom i błędom SQL przy częściowo zaktualizowanym stanie menu.
 - Zachowane podmenu `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`.
