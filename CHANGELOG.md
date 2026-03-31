@@ -1,3 +1,6 @@
+## [0.7.8] - 2026-03-31
+- Usunięcie zduplikowanego przewoźnika UPS z danych demo.
+
 ## [0.7.7] - 2026-03-31
 - Zmiana ikony głównego wpisu BO i zakładki produktów na statek.
 
