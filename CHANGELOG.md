@@ -1,3 +1,6 @@
+## [0.7.38] - 2026-03-31
+- Uproszczenie podglądu PDF w zamówieniach przez osadzenie pliku bezpośrednio w iframe zamiast pobierania go przez fetch do blob.
+
 ## [0.7.37] - 2026-03-31
 - Dodanie krótkiego, przyjemnego dźwięku potwierdzenia po poprawnym zeskanowaniu produktu.
 - Dodanie testowego pola EAN13 w badge skanera z obsługą Enter, żeby łatwo testować skaner bez urządzenia.
