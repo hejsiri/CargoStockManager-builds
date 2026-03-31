@@ -1,3 +1,6 @@
+## [0.6.11] - 2026-03-31
+- Linki zakładek i breadcrumbów w nowoczesnym layoucie BO są teraz budowane przez `Link::getAdminLink(...)` zamiast `generateUrl(...)`, co eliminuje błędne względne ścieżki typu `admin_domain`.
+
 ## [0.6.10] - 2026-03-31
 - Dodana synchronizacja praw dostępu `ps_access` z głównego taba modułu na child taby `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`, aby wpisy były widoczne w bocznym menu także po aktualizacji istniejącej instalacji.
 
