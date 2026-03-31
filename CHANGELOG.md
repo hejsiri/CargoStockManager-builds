@@ -1,3 +1,6 @@
+## [0.7.6] - 2026-03-31
+- Naprawa etykiety menu BO: klucz inventory_menu jest teraz poprawnie mapowany na tekst CargoStock.
+
 ## [0.7.5] - 2026-03-31
 - Skrócenie etykiety głównego wpisu BO z CargoStock Manager do CargoStock, aby nazwa nie zawijała się w bocznym menu.
 
