@@ -1,3 +1,6 @@
+## [0.6.10] - 2026-03-31
+- Dodana synchronizacja praw dostępu `ps_access` z głównego taba modułu na child taby `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`, aby wpisy były widoczne w bocznym menu także po aktualizacji istniejącej instalacji.
+
 ## [0.6.9] - 2026-03-31
 - Włączone aktywne podmenu BO dla `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`, aby wpisy były widoczne w bocznym menu po aktualizacji.
 
