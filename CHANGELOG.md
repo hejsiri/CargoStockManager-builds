@@ -1,3 +1,6 @@
+## [0.7.16] - 2026-03-31
+- Poprawa resetu top spacingu kontenera Ustawień w nowoczesnym BO.
+
 ## [0.7.15] - 2026-03-31
 - Dodanie efektu hover wiersza w tabeli dostawców jak w tabeli zamówień.
 
