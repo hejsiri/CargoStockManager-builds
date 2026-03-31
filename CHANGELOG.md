@@ -1,3 +1,6 @@
+## [0.6.12] - 2026-03-31
+- Naprawa kompatybilności z nowszym schematem `ps_access` w PrestaShop podczas synchronizacji uprawnień tabów BO.
+
 ## [0.6.11] - 2026-03-31
 - Linki zakładek i breadcrumbów w nowoczesnym layoucie BO są teraz budowane przez `Link::getAdminLink(...)` zamiast `generateUrl(...)`, co eliminuje błędne względne ścieżki typu `admin_domain`.
 
