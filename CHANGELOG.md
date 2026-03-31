@@ -1,3 +1,6 @@
+## [0.7.21] - 2026-03-31
+- Ujednolicenie stylu głównego panelu Produkty z kartami używanymi w Dostawcach i Zamówieniach.
+
 ## [0.7.20] - 2026-03-31
 - Zmiana ikon skanera: przycisk używa teraz ikony barcode, a aktywny badge migającej ikony barcode_reader.
 
