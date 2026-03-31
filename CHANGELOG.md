@@ -1,3 +1,6 @@
+## [0.6.7] - 2026-03-31
+- Uzupełnione dane przekazywane do `configure.tpl`: konfiguracja modułu dostaje teraz komplet wymaganych zmiennych Smarty, w tym komunikaty, URL AJAX, przewoźników, typy dokumentów i opcje Incoterms.
+
 ## [0.6.6] - 2026-03-31
 - Naprawiony kolejny błąd SQL przy wyszukiwaniu tabów BO. Helper `findTabIdByClassName()` nie dokleja już własnego `LIMIT 1`, bo PrestaShop robi to sam w `getValue()`.
 
