@@ -1,3 +1,6 @@
+## [0.7.27] - 2026-03-31
+- - Miękka obsługa braku licencji w BO na PS 8/9: moduł pokazuje komunikat zamiast rzucać AccessDenied przy wejściu do Ustawień, Dostawców i Zamówień.
+
 ## [0.7.26] - 2026-03-31
 - Próba przepięcia nowoczesnych zakładek modułu na natywny komponent nav-tabs PrestaShop z ograniczeniem własnego CSS do ikon i odstępów.
 
