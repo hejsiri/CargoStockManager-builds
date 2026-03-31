@@ -1,3 +1,6 @@
+## [0.7.40] - 2026-03-31
+- Dalsze wyrównanie przycisków Dodaj i Anuluj w formularzu dodawania plików do zamówienia przez usunięcie sztucznego labela i ustawienie czystego offsetu CSS zgodnego z wysokością etykiet pól.
+
 ## [0.7.39] - 2026-03-31
 - Wyrównanie przycisków Dodaj i Anuluj w formularzu dodawania plików do zamówienia do wysokości pól tekstowych oraz do wspólnej linii bazowej formularza.
 
