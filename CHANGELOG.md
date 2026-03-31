@@ -1,3 +1,6 @@
+## [0.7.4] - 2026-03-31
+- Przeniesienie demo przewoźników i rodzajów dokumentów do jednej sekcji stałych w serwisie modułu dla łatwiejszego zarządzania.
+
 ## [0.7.3] - 2026-03-31
 - Nowa instalacja seeduje również demo dane ustawień: przewoźników i rodzaje dokumentów dla zamówień.
 
