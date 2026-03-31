@@ -1,3 +1,7 @@
+## [0.7.37] - 2026-03-31
+- Dodanie krótkiego, przyjemnego dźwięku potwierdzenia po poprawnym zeskanowaniu produktu.
+- Dodanie testowego pola EAN13 w badge skanera z obsługą Enter, żeby łatwo testować skaner bez urządzenia.
+
 ## [0.7.36] - 2026-03-31
 - Zastąpienie ikon barcode i barcode_reader własnymi inline SVG, żeby przycisk skanera i aktywny badge wyglądały poprawnie także w PrestaShop 8.
 
