@@ -1,3 +1,6 @@
+## [0.6.6] - 2026-03-31
+- Naprawiony kolejny błąd SQL przy wyszukiwaniu tabów BO. Helper `findTabIdByClassName()` nie dokleja już własnego `LIMIT 1`, bo PrestaShop robi to sam w `getValue()`.
+
 ## [0.6.5] - 2026-03-31
 - Naprawiony błąd SQL na MariaDB podczas sprawdzania istnienia tabel modułu. Moduł nie używa już `SHOW TABLES LIKE ...` w miejscu, gdzie PrestaShop dopisuje `LIMIT 1`.
 
