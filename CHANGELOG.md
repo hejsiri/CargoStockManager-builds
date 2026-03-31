@@ -1,3 +1,7 @@
+## [0.6.3] - 2026-03-31
+- Dodane podmenu BO pod `CargoStock Manager`: `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`.
+- Widok produktów został przepięty na osobny child tab `AdminCargoStockManagerProducts`, dzięki czemu struktura menu jest pełna i spójna.
+
 ## [0.6.2] - 2026-03-31
 - Poprawione ścieżki ładowania szablonów modułu po hotfixie kompatybilności, aby konfiguracja nie szukała widoków w katalogu `cargostockmanager`.
 - Legacy konfiguracja modułu i nowoczesne widoki Twig odwołują się teraz do właściwego katalogu technicznego `prestashopinventory`.
