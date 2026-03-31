@@ -1,3 +1,6 @@
+## [0.7.33] - 2026-03-31
+- - Przeniesienie komunikatu o braku licencji w legacy zakładce Produkty na PS 8 nad panel, żeby brak ładowania tabeli był czytelny zamiast wyglądać jak awaria.
+
 ## [0.7.32] - 2026-03-31
 - - Uspokojenie aktywnego stylu przycisku skanera w PS 8, żeby nie wyglądał jak drugi pływający badge po włączeniu skanera.
 
