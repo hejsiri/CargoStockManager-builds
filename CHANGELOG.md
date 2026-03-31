@@ -1,3 +1,6 @@
+## [0.6.9] - 2026-03-31
+- Włączone aktywne podmenu BO dla `Produkty`, `Dostawcy`, `Zamówienia`, `Ustawienia`, aby wpisy były widoczne w bocznym menu po aktualizacji.
+
 ## [0.6.8] - 2026-03-31
 - Produkty w BO znów używają sprawdzonych uprawnień legacy `AdminCargoStockManager` dla routingu i AJAX, co usuwa komunikat `Access Denied` po dodaniu child taba `Produkty`.
 
