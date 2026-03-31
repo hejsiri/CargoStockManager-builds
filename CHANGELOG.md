@@ -1,3 +1,6 @@
+## [0.7.32] - 2026-03-31
+- - Uspokojenie aktywnego stylu przycisku skanera w PS 8, żeby nie wyglądał jak drugi pływający badge po włączeniu skanera.
+
 ## [0.7.31] - 2026-03-31
 - - Przeniesienie komunikatu o braku licencji nad panele we wszystkich nowoczesnych zakładkach modułu.
 - - Zablokowanie renderowania paneli Produkty, Dostawcy i Zamówienia bez ważnej licencji, zamiast ładowania części danych mimo błędu.
