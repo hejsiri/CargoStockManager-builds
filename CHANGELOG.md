@@ -1,3 +1,6 @@
+## [0.7.36] - 2026-03-31
+- Zastąpienie ikon barcode i barcode_reader własnymi inline SVG, żeby przycisk skanera i aktywny badge wyglądały poprawnie także w PrestaShop 8.
+
 ## [0.7.35] - 2026-03-31
 - Naprawa pustego ekranu Produkty w nowoczesnym layoucie przez centralne przekazywanie licenseStatus do wszystkich widoków Twig z AbstractInventoryController.
 - Ujednolicenie obsługi statusu licencji między Produktami, Dostawcami, Zamówieniami i Ustawieniami.
