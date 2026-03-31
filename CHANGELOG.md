@@ -1,3 +1,6 @@
+## [0.7.30] - 2026-03-31
+- - Zamiana $(document).ready(...) na $(...) w JS modułu, żeby usunąć warning JQMIGRATE o deprecated ready event.
+
 ## [0.7.29] - 2026-03-31
 - - Przywrócenie realnego fallbacku legacy dla ekranów Produkty, Dostawcy i Zamówienia na PrestaShop 8, zamiast bezwarunkowego redirectu do Symfony.
 - - Ujednolicenie _legacy_link dla Dostawców i Zamówień, żeby menu, breadcrumbs i mapowanie uprawnień były spójne między PS 8 i 9.
