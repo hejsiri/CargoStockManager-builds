@@ -1,3 +1,6 @@
+## [0.7.11] - 2026-03-31
+- Zmiana ikony zakładki Produkty na category.
+
 ## [0.7.10] - 2026-03-31
 - Dodanie demo dostawców Apple, Xiaomi i Samsung z publicznymi adresami firm przy czystej instalacji.
 
