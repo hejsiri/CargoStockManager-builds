@@ -1,3 +1,6 @@
+## [0.7.9] - 2026-03-31
+- Zmiana ikony zakładki Dostawcy na factory.
+
 ## [0.7.8] - 2026-03-31
 - Usunięcie zduplikowanego przewoźnika UPS z danych demo.
 
