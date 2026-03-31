@@ -1,3 +1,6 @@
+## [0.7.20] - 2026-03-31
+- Zmiana ikon skanera: przycisk używa teraz ikony barcode, a aktywny badge migającej ikony barcode_reader.
+
 ## [0.7.19] - 2026-03-31
 - Ujednolicenie styli zakładek BO i spacingu Ustawień z pozostałymi sekcjami modułu.
 - Przeniesienie wspólnego stylu kart i tabów do nowoczesnego layoutu modułu.
