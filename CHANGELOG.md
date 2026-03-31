@@ -1,3 +1,6 @@
+## [0.7.15] - 2026-03-31
+- Dodanie efektu hover wiersza w tabeli dostawców jak w tabeli zamówień.
+
 ## [0.7.14] - 2026-03-31
 - Ujednolicenie wysokości wierszy na listach dostawców, zamówień i tabelach ustawień.
 
