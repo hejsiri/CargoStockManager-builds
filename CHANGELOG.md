@@ -1,3 +1,6 @@
+## [0.7.18] - 2026-03-31
+- Przepięcie zakładki Ustawienia i konfiguracji modułu z AdminModules na dedykowany kontroler AdminCargoStockManagerSettings.
+
 ## [0.7.17] - 2026-03-31
 - Ujednolicenie kart i motywu zakładki Ustawienia z pozostałymi zakładkami modułu.
 
