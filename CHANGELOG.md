@@ -1,3 +1,6 @@
+## [0.7.17] - 2026-03-31
+- Ujednolicenie kart i motywu zakładki Ustawienia z pozostałymi zakładkami modułu.
+
 ## [0.7.16] - 2026-03-31
 - Poprawa resetu top spacingu kontenera Ustawień w nowoczesnym BO.
 
