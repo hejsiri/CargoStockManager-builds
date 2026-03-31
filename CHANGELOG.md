@@ -1,3 +1,6 @@
+## [0.7.3] - 2026-03-31
+- Nowa instalacja seeduje również demo dane ustawień: przewoźników i rodzaje dokumentów dla zamówień.
+
 ## [0.7.2] - 2026-03-31
 - Poprawa styli paneli w PrestaShop 9: karty modułu mają teraz jawne tło, obramowanie i cień zamiast przezroczystych paneli.
 
