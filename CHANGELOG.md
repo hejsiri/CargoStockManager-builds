@@ -1,3 +1,7 @@
+## [0.7.35] - 2026-03-31
+- Naprawa pustego ekranu Produkty w nowoczesnym layoucie przez centralne przekazywanie licenseStatus do wszystkich widoków Twig z AbstractInventoryController.
+- Ujednolicenie obsługi statusu licencji między Produktami, Dostawcami, Zamówieniami i Ustawieniami.
+
 ## [0.7.34] - 2026-03-31
 - Uspójnienie ładowania listy Produktów między PS 8 i 9 przez zdjęcie wtórnej blokady licencji z endpointu AJAX FetchProducts, gdy ekran już uznał licencję za poprawną.
 - Dodanie zwracania i pokazywania realnego błędu backendu w tabeli Produktów zamiast ogólnego komunikatu "Błąd ładowania danych".
