@@ -1,3 +1,7 @@
+## [0.7.19] - 2026-03-31
+- Ujednolicenie styli zakładek BO i spacingu Ustawień z pozostałymi sekcjami modułu.
+- Przeniesienie wspólnego stylu kart i tabów do nowoczesnego layoutu modułu.
+
 ## [0.7.18] - 2026-03-31
 - Przepięcie zakładki Ustawienia i konfiguracji modułu z AdminModules na dedykowany kontroler AdminCargoStockManagerSettings.
 
