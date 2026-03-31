@@ -1,3 +1,6 @@
+## [0.7.22] - 2026-03-31
+- Naprawa błędu PS9 przy zmianie kolorów statusów zamówień przez usunięcie zależności od Tools::link_rewrite().
+
 ## [0.7.21] - 2026-03-31
 - Ujednolicenie stylu głównego panelu Produkty z kartami używanymi w Dostawcach i Zamówieniach.
 
