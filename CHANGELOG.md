@@ -1,3 +1,6 @@
+## [0.7.13] - 2026-03-31
+- Ukrycie listy dostawców podczas edycji lub dodawania dostawcy.
+
 ## [0.7.12] - 2026-03-31
 - Wyrównanie górnego położenia pierwszego panelu w zakładce Ustawienia w nowoczesnym BO.
 
