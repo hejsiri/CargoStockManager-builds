@@ -1,3 +1,6 @@
+## [0.7.39] - 2026-03-31
+- Wyrównanie przycisków Dodaj i Anuluj w formularzu dodawania plików do zamówienia do wysokości pól tekstowych oraz do wspólnej linii bazowej formularza.
+
 ## [0.7.38] - 2026-03-31
 - Uproszczenie podglądu PDF w zamówieniach przez osadzenie pliku bezpośrednio w iframe zamiast pobierania go przez fetch do blob.
 
