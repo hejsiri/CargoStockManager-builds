@@ -1,3 +1,6 @@
+## [0.7.24] - 2026-03-31
+- Naprawa błędu ładowania tabeli Produkty spowodowanego brakującą zmienną carton_gross_weight w renderze wierszy.
+
 ## [0.7.23] - 2026-03-31
 - Pełne usunięcie zależności od Tools::link_rewrite() przy slugowaniu statusów zamówień, co naprawia ekrany Ustawień i Zamówień w PS9.
 
