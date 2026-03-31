@@ -1,3 +1,7 @@
+## [0.7.34] - 2026-03-31
+- Uspójnienie ładowania listy Produktów między PS 8 i 9 przez zdjęcie wtórnej blokady licencji z endpointu AJAX FetchProducts, gdy ekran już uznał licencję za poprawną.
+- Dodanie zwracania i pokazywania realnego błędu backendu w tabeli Produktów zamiast ogólnego komunikatu "Błąd ładowania danych".
+
 ## [0.7.33] - 2026-03-31
 - - Przeniesienie komunikatu o braku licencji w legacy zakładce Produkty na PS 8 nad panel, żeby brak ładowania tabeli był czytelny zamiast wyglądać jak awaria.
 
