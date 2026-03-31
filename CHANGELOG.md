@@ -1,3 +1,6 @@
+## [0.7.10] - 2026-03-31
+- Dodanie demo dostawców Apple, Xiaomi i Samsung z publicznymi adresami firm przy czystej instalacji.
+
 ## [0.7.9] - 2026-03-31
 - Zmiana ikony zakładki Dostawcy na factory.
 
