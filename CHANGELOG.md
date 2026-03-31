@@ -1,3 +1,6 @@
+## [0.7.25] - 2026-03-31
+- Zmniejszenie wysokości paska zakładek BO o 6 px w nowoczesnym layoucie modułu.
+
 ## [0.7.24] - 2026-03-31
 - Naprawa błędu ładowania tabeli Produkty spowodowanego brakującą zmienną carton_gross_weight w renderze wierszy.
 
