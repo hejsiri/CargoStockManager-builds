@@ -1,3 +1,6 @@
+## [0.7.43] - 2026-04-01
+- Poprawa podglądu i pobierania plików PDF w zamówieniach po migracji ścieżek modułu.
+
 ## [0.7.42] - 2026-04-01
 - Ujednolicenie geometrii pól i przycisków w formularzu dodawania plików do zamówienia przez wspólny grid form-group, identyczny wiersz kontrolki 54px i wymuszone centrowanie treści przycisków.
 
