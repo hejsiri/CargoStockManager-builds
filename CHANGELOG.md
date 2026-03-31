@@ -1,3 +1,6 @@
+## [0.7.28] - 2026-03-31
+- - Przywrócenie własnego stylu zakładek modułu po nieudanej próbie użycia natywnych tabów BO na PS 8.
+
 ## [0.7.27] - 2026-03-31
 - - Miękka obsługa braku licencji w BO na PS 8/9: moduł pokazuje komunikat zamiast rzucać AccessDenied przy wejściu do Ustawień, Dostawców i Zamówień.
 
