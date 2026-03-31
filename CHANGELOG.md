@@ -1,3 +1,7 @@
+## [0.7.31] - 2026-03-31
+- - Przeniesienie komunikatu o braku licencji nad panele we wszystkich nowoczesnych zakładkach modułu.
+- - Zablokowanie renderowania paneli Produkty, Dostawcy i Zamówienia bez ważnej licencji, zamiast ładowania części danych mimo błędu.
+
 ## [0.7.30] - 2026-03-31
 - - Zamiana $(document).ready(...) na $(...) w JS modułu, żeby usunąć warning JQMIGRATE o deprecated ready event.
 
