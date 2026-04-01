@@ -192,3 +192,6 @@
 ## [0.7.59] - 2026-04-01
 - Pierwszy wiersz kalkulacji kosztu został uproszczony do opisowych nagłówków pól bez widocznych plakietek i operatorów, przy zachowaniu wyrównania względem rzędu z wartościami.
 
+## [0.7.60] - 2026-04-01
+- Dalsze dopracowanie popupu kalkulacji kosztu: przeniesienie `Marży` i `Zysku` bliżej wyniku ceny detalicznej oraz lekkie pogrubienie strzałki `→`.
+
