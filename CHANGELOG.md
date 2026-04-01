@@ -168,3 +168,6 @@
 ## [0.7.51] - 2026-04-01
 - Korekta szerokości slotów i odstępów w popupie kalkulacji kosztu, tak aby wzory i wartości mieściły się w jednym rzędzie bez wychodzenia poza modal.
 
+## [0.7.52] - 2026-04-01
+- Dopracowanie czytelności wzorów w popupie kalkulacji kosztu: mocniejszy kontrast etykiet i operatorów oraz ujednolicenie stylu symboli `×`, `→`, `+`, `=`, żeby nie rozsuwały wyrównania między wierszem wzoru i obliczeń.
+
