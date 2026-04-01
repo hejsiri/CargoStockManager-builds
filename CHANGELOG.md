@@ -171,3 +171,6 @@
 ## [0.7.52] - 2026-04-01
 - Dopracowanie czytelności wzorów w popupie kalkulacji kosztu: mocniejszy kontrast etykiet i operatorów oraz ujednolicenie stylu symboli `×`, `→`, `+`, `=`, żeby nie rozsuwały wyrównania między wierszem wzoru i obliczeń.
 
+## [0.7.53] - 2026-04-01
+- Aktualizacja wyglądu wzorów w popupie kalkulacji kosztu: ciemno-granatowe plakietki z jasnym tekstem, niebieskie plakietki wyników po `=`, zwężone sloty mieszczące się w jednym rzędzie oraz wyrównane szerokości dla ceny zakupu, kursu waluty, ceny w PLN i transportu 1 szt.
+
