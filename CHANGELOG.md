@@ -180,3 +180,6 @@
 ## [0.7.55] - 2026-04-01
 - Drobne dopracowanie popupu kalkulacji kosztu: dodanie `HS Code` do danych produktu oraz wzmocnienie wizualne strzałki `→`, żeby była spójna z pozostałymi operatorami.
 
+## [0.7.56] - 2026-04-01
+- Dalsze dopracowanie popupu kalkulacji kosztu: jaśniejszy granat plakietek oraz dodanie stawki celnej do sekcji danych produktu.
+
