@@ -205,3 +205,6 @@
 - Dalsze dopracowanie popupu kalkulacji kosztu: jaśniejszy zapis `Zysk netto`, bardziej elastyczne pole wyniku kosztu całkowitego, węższe pole edycji `Narzut`, fallback nazwy kombinacji w nagłówku oraz kolorowy pasek na górnej krawędzi modala.
 - Skrypt release zapisuje teraz także lokalną kopię builda i manifestu do katalogu `builds-local/`, co ułatwia ręczną instalację aktualizacji.
 
+## [0.7.64] - 2026-04-02
+- Modale `Wykres sprzedaży` i `Rentowność` w zakładce Produkty korzystają teraz z tego samego stylu obramowania co popup `Kalkulacja kosztu`: ten sam promień narożników, kolorowy pasek u góry i przycisk `X`.
+
