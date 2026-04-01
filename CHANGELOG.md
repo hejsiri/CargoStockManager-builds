@@ -189,3 +189,6 @@
 ## [0.7.58] - 2026-04-01
 - Popup i lista pozycji zamówienia korzystają teraz z aktualnego tytułu produktu z PrestaShop jako głównej nazwy produktu, z zachowaniem osobnej nazwy kombinacji.
 
+## [0.7.59] - 2026-04-01
+- Pierwszy wiersz kalkulacji kosztu został uproszczony do opisowych nagłówków pól bez widocznych plakietek i operatorów, przy zachowaniu wyrównania względem rzędu z wartościami.
+
