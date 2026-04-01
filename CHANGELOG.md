@@ -162,3 +162,6 @@
 ## [0.7.49] - 2026-04-01
 - Poszerzenie modala kalkulacji kosztu, skrócenie formatu kursu waluty do 2 miejsc po przecinku oraz usunięcie mylącej podpowiedzi `6.5` z pola stawki celnej, gdy produkt nie ma ustawionej wartości.
 
+## [0.7.50] - 2026-04-01
+- Dopracowanie popupu kalkulacji kosztu: czytelniejsze nagłówki sekcji, wyższy kontrast etykiet, stałe wyrównanie slotów etykieta/wartość we wzorach, przeniesienie kosztu transportu 1 szt. do danych produktu oraz zmiana etykiety na `Ilość w kartonie`.
+
