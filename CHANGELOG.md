@@ -156,3 +156,6 @@
 ## [0.7.47] - 2026-04-01
 - Naprawa modala kalkulacji kosztu w produktach zamówienia po poprawce liczenia transportu według wagi, tak aby popup znów otwierał się poprawnie.
 
+## [0.7.48] - 2026-04-01
+- Przebudowa prezentacji kalkulacji kosztu w produktach zamówienia: układ danych produktu w 2 kolumnach, widoczny koszt transportu 1 szt., czytelne wzory z podstawionymi wartościami oraz wyliczenia marży i czystego zysku.
+
