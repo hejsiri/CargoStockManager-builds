@@ -149,3 +149,7 @@
 - Dodanie powiększenia zdjęcia produktu po najechaniu w liście pozycji zamówienia.
 - Dodanie automatycznego czyszczenia starych ZIP-ów w skrypcie release, z domyślnym limitem 5 najnowszych buildów.
 
+## [0.7.46] - 2026-04-01
+- Uporządkowanie popupu kalkulacji kosztu w produktach zamówienia: listy z liniami między wierszami, szybkiej edycji narzutu i czytelniejszego nagłówka produktu oraz kombinacji.
+- Zmiana liczenia kosztu transportu 1 szt. w kalkulacji kosztu na udział według wagi produktu względem łącznej wagi zamówienia.
+
