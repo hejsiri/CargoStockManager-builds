@@ -186,3 +186,6 @@
 ## [0.7.57] - 2026-04-01
 - Usunięcie przykładowej podpowiedzi z pola `HS Code` w formularzu danych produktu, aby puste pole nie sugerowało domyślnej wartości.
 
+## [0.7.58] - 2026-04-01
+- Popup i lista pozycji zamówienia korzystają teraz z aktualnego tytułu produktu z PrestaShop jako głównej nazwy produktu, z zachowaniem osobnej nazwy kombinacji.
+
