@@ -211,3 +211,6 @@
 ## [0.7.65] - 2026-04-02
 - W zakładce Produkty dodano nową akcję `Historia ceny` z osobnym oknem modalnym i wykresem historii cen zakupu na podstawie pozycji z zamówień towaru.
 
+## [0.7.66] - 2026-04-02
+- Modal `Historia ceny` w zakładce Produkty korzysta teraz z tego samego stylu obramowania co pozostałe okna modalne, pokazuje wyłącznie cenę zakupu netto w PLN i ma polskie tłumaczenia.
+
