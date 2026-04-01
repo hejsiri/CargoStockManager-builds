@@ -143,3 +143,9 @@
 - Pełne przełączenie modułu na techniczną nazwę `cargostockmanager` bez migracji danych ze starej instalacji.
 
 # Changelog
+## [0.7.45] - 2026-04-01
+- Stabilizacja ładowania stylów w zakładce Produkty w nowoczesnym layoucie przez przeniesienie legacy CSS do sekcji `stylesheets`.
+- Odświeżanie miniaturek produktów na liście pozycji zamówienia z aktualnego obrazka kombinacji albo produktu.
+- Dodanie powiększenia zdjęcia produktu po najechaniu w liście pozycji zamówienia.
+- Dodanie automatycznego czyszczenia starych ZIP-ów w skrypcie release, z domyślnym limitem 5 najnowszych buildów.
+
