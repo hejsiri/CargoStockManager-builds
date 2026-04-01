@@ -159,3 +159,6 @@
 ## [0.7.48] - 2026-04-01
 - Przebudowa prezentacji kalkulacji kosztu w produktach zamówienia: układ danych produktu w 2 kolumnach, widoczny koszt transportu 1 szt., czytelne wzory z podstawionymi wartościami oraz wyliczenia marży i czystego zysku.
 
+## [0.7.49] - 2026-04-01
+- Poszerzenie modala kalkulacji kosztu, skrócenie formatu kursu waluty do 2 miejsc po przecinku oraz usunięcie mylącej podpowiedzi `6.5` z pola stawki celnej, gdy produkt nie ma ustawionej wartości.
+
