@@ -183,3 +183,6 @@
 ## [0.7.56] - 2026-04-01
 - Dalsze dopracowanie popupu kalkulacji kosztu: jaśniejszy granat plakietek oraz dodanie stawki celnej do sekcji danych produktu.
 
+## [0.7.57] - 2026-04-01
+- Usunięcie przykładowej podpowiedzi z pola `HS Code` w formularzu danych produktu, aby puste pole nie sugerowało domyślnej wartości.
+
