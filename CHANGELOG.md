@@ -174,3 +174,6 @@
 ## [0.7.53] - 2026-04-01
 - Aktualizacja wyglądu wzorów w popupie kalkulacji kosztu: ciemno-granatowe plakietki z jasnym tekstem, niebieskie plakietki wyników po `=`, zwężone sloty mieszczące się w jednym rzędzie oraz wyrównane szerokości dla ceny zakupu, kursu waluty, ceny w PLN i transportu 1 szt.
 
+## [0.7.54] - 2026-04-01
+- Jaśniejsza plakietka i pole edycji dla `Narzut` w popupie kalkulacji kosztu, tak aby wyróżniały się od ciemnych pól, ale nadal pozostawały spójne z układem wzoru.
+
