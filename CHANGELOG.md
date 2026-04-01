@@ -153,3 +153,6 @@
 - Uporządkowanie popupu kalkulacji kosztu w produktach zamówienia: listy z liniami między wierszami, szybkiej edycji narzutu i czytelniejszego nagłówka produktu oraz kombinacji.
 - Zmiana liczenia kosztu transportu 1 szt. w kalkulacji kosztu na udział według wagi produktu względem łącznej wagi zamówienia.
 
+## [0.7.47] - 2026-04-01
+- Naprawa modala kalkulacji kosztu w produktach zamówienia po poprawce liczenia transportu według wagi, tak aby popup znów otwierał się poprawnie.
+
