@@ -195,3 +195,6 @@
 ## [0.7.60] - 2026-04-01
 - Dalsze dopracowanie popupu kalkulacji kosztu: przeniesienie `Marży` i `Zysku` bliżej wyniku ceny detalicznej oraz lekkie pogrubienie strzałki `→`.
 
+## [0.7.61] - 2026-04-01
+- Dalsze dopracowanie popupu kalkulacji kosztu: pogrubienie etykiet w danych produktu, przeniesienie `Marży` i `Zysku` do wiersza wyniku ceny detalicznej oraz korekta odstępów między nagłówkami, wartościami i separatorem.
+
