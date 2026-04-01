@@ -1,3 +1,8 @@
+## [0.7.44] - 2026-04-01
+- Odświeżanie EAN na liście produktów w zamówieniu z fallbackiem do aktualnego EAN kombinacji albo produktu, także dla starszych pozycji zamówień.
+- Dodanie konfiguracji remote'ów git oraz skryptów do ustawiania i wypychania repo źródłowego i repo buildów.
+- Build ZIP dodany bez aktualizacji `latest.json`, bo manifest wymaga podpisu prywatnym kluczem release.
+
 ## [0.7.43] - 2026-04-01
 - Poprawa podglądu i pobierania plików PDF w zamówieniach po migracji ścieżek modułu.
 
@@ -138,4 +143,3 @@
 - Pełne przełączenie modułu na techniczną nazwę `cargostockmanager` bez migracji danych ze starej instalacji.
 
 # Changelog
-
