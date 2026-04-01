@@ -198,3 +198,6 @@
 ## [0.7.61] - 2026-04-01
 - Dalsze dopracowanie popupu kalkulacji kosztu: pogrubienie etykiet w danych produktu, przeniesienie `Marży` i `Zysku` do wiersza wyniku ceny detalicznej oraz korekta odstępów między nagłówkami, wartościami i separatorem.
 
+## [0.7.62] - 2026-04-01
+- Nagłówek popupu kalkulacji kosztu pokazuje teraz nazwę kombinacji w osobnym wierszu pod nazwą produktu.
+
