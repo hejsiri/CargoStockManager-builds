@@ -214,3 +214,6 @@
 ## [0.7.66] - 2026-04-02
 - Modal `Historia ceny` w zakładce Produkty korzysta teraz z tego samego stylu obramowania co pozostałe okna modalne, pokazuje wyłącznie cenę zakupu netto w PLN i ma polskie tłumaczenia.
 
+## [0.7.67] - 2026-04-02
+- Modal `Historia ceny` w zakładce Produkty ma teraz niższy wykres, bardziej kompaktowe kafelki statystyk, listowy układ zamówień i przewijanie zawartości przy dłuższym widoku.
+
