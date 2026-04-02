@@ -308,3 +308,6 @@
 ## [0.7.71] - 2026-04-02
 - Poprawiono render plakietek `EN` i `PL` w PDF `Tłumaczenie Faktury`, tak aby były wyraźnie oddzielone od nazwy produktu.
 
+## [0.7.72] - 2026-04-02
+- PDF-y zamówienia i `Tłumaczenie Faktury` używają teraz pełniejszego adresu dostawy z ustawień modułu, jeśli w zamówieniu była zapisana krótsza wersja bez EORI.
+
