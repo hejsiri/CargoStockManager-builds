@@ -318,3 +318,6 @@
 - W widoku zamówienia sekcję `Adres dostawy` zmieniono na `Nabywca` i pokazuje ona teraz dokładnie bieżący tekst zapisany w ustawieniach modułu.
 - W ustawieniach zamówień etykietę, placeholder i przycisk zmieniono z `Adres dostawy` na `Nabywca`.
 
+## [0.7.75] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` przebudowano układ linii `EN` / `PL`, żeby plakietki miały własny, bardziej przewidywalny render bez sztucznej pustej przestrzeni obok.
+
