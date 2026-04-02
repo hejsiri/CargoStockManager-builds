@@ -337,3 +337,6 @@
 ## [0.7.81] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` usunięto plakietki i zastąpiono je prostym formatem tekstowym `(EN) ...` i `(PL) ...`.
 
+## [0.7.82] - 2026-04-02
+- W stawce celnej dopuszczono i utrwalono wartość `0`; interfejs pokazuje teraz `0 %` zamiast `—`.
+
