@@ -349,3 +349,8 @@
 ## [0.7.84] - 2026-04-02
 - Inline edycja stawki celnej w tabeli produktów akceptuje teraz puste pole bez błędu i poprawnie rozróżnia stany: puste (`—`), `0` (`0 %`) i wartość dodatnią (`x %`).
 
+## [0.7.85] - 2026-04-02
+- W `Zamówienia towaru > Produkty w zamówieniu` dodano nowy przycisk `Kalkulacja zamówienia` (po lewej od `PDF`) z popupem zbiorczej kalkulacji całego zamówienia.
+- Popup pokazuje tabelę pozycji z kosztami i sprzedażą (`Ilość`, `Cena zakupu`, `Cena w PLN`, `Cło`, `Transport 1 szt.`, `Koszt całkowity netto | brutto`, `Narzut`, `Cena detaliczna netto | brutto`, `Wartość netto/brutto zakupu`, `Zysk netto`, `Marża`) oraz podsumowanie na dole.
+- W tabeli działa szybka edycja `Narzutu` per pozycja (zapis do bazy dla produktu/kombinacji) i natychmiastowe przeliczenie wartości w popupie.
+
