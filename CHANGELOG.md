@@ -302,3 +302,6 @@
 - Dokumenty PDF zamówienia i `Tłumaczenie Faktury` pokazują teraz cały adres dostawy z ustawień modułu, bez ucinania dłuższych wpisów.
 - W `Tłumaczeniu Faktury` połączono nazwę produktu EN i PL w jedną komórkę z plakietkami językowymi.
 
+## [0.7.70] - 2026-04-02
+- Dokument `Tłumaczenie Faktury` ma teraz czytelniejsze plakietki `EN` i `PL`, a `Materiał` został wydzielony do osobnej kolumny.
+
