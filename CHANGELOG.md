@@ -366,3 +366,7 @@
 ## [0.7.88] - 2026-04-02
 - Ujednolicono formatowanie liczb w popupach kalkulacji: separator tysięcy to zwykła spacja, a separator dziesiętny to przecinek.
 
+## [0.7.89] - 2026-04-02
+- W popupie `Kalkulacja zamówienia` poprawiono czytelność tabeli: wyśrodkowano nagłówki kolumn i dopracowano format wartości liczbowych (`6 633,47` zamiast `6633,47`).
+- Uzupełniono wiersz `Suma` o podsumowanie kolumny `Zysk netto`.
+
