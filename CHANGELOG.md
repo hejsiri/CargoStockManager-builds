@@ -343,3 +343,6 @@
 ## [0.7.83] - 2026-04-02
 - Pole stawki celnej obsługuje trzy stany: puste (`—`), `0` (`0 %`) oraz wartość dodatnią (`x %`) z poprawnym zapisem i odczytem.
 
+## [0.7.84] - 2026-04-02
+- Inline edycja stawki celnej w tabeli produktów akceptuje teraz puste pole bez błędu i poprawnie rozróżnia stany: puste (`—`), `0` (`0 %`) i wartość dodatnią (`x %`).
+
