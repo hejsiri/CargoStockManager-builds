@@ -294,3 +294,7 @@
 
 =======
 >>>>>>> 0f06d89 (Update builds changelog)
+## [0.7.68] - 2026-04-02
+- Narzut w modalu `Kalkulacja kosztu` zapisuje się teraz osobno dla każdej kombinacji produktu.
+- W panelu produktów zamówienia dodano dokument `Tłumaczenie Faktury` z nazwą produktu PL/EN, HS Code i opisem produktu z danych modułu.
+
