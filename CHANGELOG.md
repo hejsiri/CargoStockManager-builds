@@ -363,3 +363,6 @@
 - W popupie `Kalkulacja zamówienia` dopracowano układ tabeli: etykiety `Koszt całkowity` i `Cena detaliczna` przeniesiono do układu 2-liniowego (`netto | brutto`), dodano kolumnę `Wartość detaliczna netto | brutto`, a nazwa kombinacji jest zawsze w nowym wierszu pod nazwą produktu.
 - Usunięto dolny blok oddzielnych etykiet podsumowania; sumowanie pozostaje wyłącznie w tabeli (`wiersz Suma`) dla wartości detalicznych i zakupu.
 
+## [0.7.88] - 2026-04-02
+- Ujednolicono formatowanie liczb w popupach kalkulacji: separator tysięcy to zwykła spacja, a separator dziesiętny to przecinek.
+
