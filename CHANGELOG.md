@@ -340,3 +340,6 @@
 ## [0.7.82] - 2026-04-02
 - W stawce celnej dopuszczono i utrwalono wartość `0`; interfejs pokazuje teraz `0 %` zamiast `—`.
 
+## [0.7.83] - 2026-04-02
+- Pole stawki celnej obsługuje trzy stany: puste (`—`), `0` (`0 %`) oraz wartość dodatnią (`x %`) z poprawnym zapisem i odczytem.
+
