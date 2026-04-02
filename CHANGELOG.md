@@ -314,3 +314,7 @@
 ## [0.7.73] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` dopracowano padding i odstępy plakietek `EN` / `PL` oraz dodano `Warunki dostawy` do sekcji `Szczegóły`.
 
+## [0.7.74] - 2026-04-02
+- W widoku zamówienia sekcję `Adres dostawy` zmieniono na `Nabywca` i pokazuje ona teraz dokładnie bieżący tekst zapisany w ustawieniach modułu.
+- W ustawieniach zamówień etykietę, placeholder i przycisk zmieniono z `Adres dostawy` na `Nabywca`.
+
