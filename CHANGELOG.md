@@ -298,3 +298,7 @@
 - Narzut w modalu `Kalkulacja kosztu` zapisuje się teraz osobno dla każdej kombinacji produktu.
 - W panelu produktów zamówienia dodano dokument `Tłumaczenie Faktury` z nazwą produktu PL/EN, HS Code i opisem produktu z danych modułu.
 
+## [0.7.69] - 2026-04-02
+- Dokumenty PDF zamówienia i `Tłumaczenie Faktury` pokazują teraz cały adres dostawy z ustawień modułu, bez ucinania dłuższych wpisów.
+- W `Tłumaczeniu Faktury` połączono nazwę produktu EN i PL w jedną komórkę z plakietkami językowymi.
+
