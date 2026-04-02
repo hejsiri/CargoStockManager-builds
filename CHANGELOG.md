@@ -334,3 +334,6 @@
 - Uporządkowano wersjonowanie release i opublikowano build spójny z kodem źródłowym.
 - W obu dokumentach PDF (`Zamówienie` i `Tłumaczenie faktury`) dodano stopkę: `Wygenerowano w CargoStock Manager v.X.Y.Z`.
 
+## [0.7.81] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` usunięto plakietki i zastąpiono je prostym formatem tekstowym `(EN) ...` i `(PL) ...`.
+
