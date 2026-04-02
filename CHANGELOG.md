@@ -370,3 +370,8 @@
 - W popupie `Kalkulacja zamówienia` poprawiono czytelność tabeli: wyśrodkowano nagłówki kolumn i dopracowano format wartości liczbowych (`6 633,47` zamiast `6633,47`).
 - Uzupełniono wiersz `Suma` o podsumowanie kolumny `Zysk netto`.
 
+## [0.7.90] - 2026-04-02
+- W popupie `Kalkulacja zamówienia` dodano kolumnę `Zdjęcie` (po `LP`).
+- W kolumnie `Produkt` nazwa kombinacji jest teraz zawsze wyświetlana w nowym wierszu pod nazwą produktu (z fallbackiem do danych wiersza tabeli).
+- Uporządkowano kolejność kolumn: `Wartość zakupu netto | brutto` przeniesiono zaraz za `Koszt całkowity netto | brutto`.
+
