@@ -311,3 +311,6 @@
 ## [0.7.72] - 2026-04-02
 - PDF-y zamówienia i `Tłumaczenie Faktury` używają teraz pełniejszego adresu dostawy z ustawień modułu, jeśli w zamówieniu była zapisana krótsza wersja bez EORI.
 
+## [0.7.73] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` dopracowano padding i odstępy plakietek `EN` / `PL` oraz dodano `Warunki dostawy` do sekcji `Szczegóły`.
+
