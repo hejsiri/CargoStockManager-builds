@@ -1,3 +1,77 @@
+## [0.7.67] - 2026-04-02
+- Modal `Historia ceny` w zakładce Produkty ma teraz niższy wykres, bardziej kompaktowe kafelki statystyk, listowy układ zamówień i przewijanie zawartości przy dłuższym widoku.
+
+## [0.7.66] - 2026-04-02
+- Modal `Historia ceny` w zakładce Produkty korzysta teraz z tego samego stylu obramowania co pozostałe okna modalne, pokazuje wyłącznie cenę zakupu netto w PLN i ma polskie tłumaczenia.
+
+## [0.7.65] - 2026-04-02
+- W zakładce Produkty dodano nową akcję `Historia ceny` z osobnym oknem modalnym i wykresem historii cen zakupu na podstawie pozycji z zamówień towaru.
+
+## [0.7.64] - 2026-04-02
+- Modale `Wykres sprzedaży` i `Rentowność` w zakładce Produkty korzystają teraz z tego samego stylu obramowania co popup `Kalkulacja kosztu`: ten sam promień narożników, kolorowy pasek u góry i przycisk `X`.
+
+## [0.7.63] - 2026-04-02
+- Dalsze dopracowanie popupu kalkulacji kosztu: jaśniejszy zapis `Zysk netto`, bardziej elastyczne pole wyniku kosztu całkowitego, węższe pole edycji `Narzut`, fallback nazwy kombinacji w nagłówku oraz kolorowy pasek na górnej krawędzi modala.
+- Skrypt release zapisuje teraz także lokalną kopię builda i manifestu do katalogu `builds-local/`, co ułatwia ręczną instalację aktualizacji.
+
+## [0.7.62] - 2026-04-01
+- Nagłówek popupu kalkulacji kosztu pokazuje teraz nazwę kombinacji w osobnym wierszu pod nazwą produktu.
+
+## [0.7.61] - 2026-04-01
+- Dalsze dopracowanie popupu kalkulacji kosztu: pogrubienie etykiet w danych produktu, przeniesienie `Marży` i `Zysku` do wiersza wyniku ceny detalicznej oraz korekta odstępów między nagłówkami, wartościami i separatorem.
+
+## [0.7.60] - 2026-04-01
+- Dalsze dopracowanie popupu kalkulacji kosztu: przeniesienie `Marży` i `Zysku` bliżej wyniku ceny detalicznej oraz lekkie pogrubienie strzałki `→`.
+
+## [0.7.59] - 2026-04-01
+- Pierwszy wiersz kalkulacji kosztu został uproszczony do opisowych nagłówków pól bez widocznych plakietek i operatorów, przy zachowaniu wyrównania względem rzędu z wartościami.
+
+## [0.7.58] - 2026-04-01
+- Popup i lista pozycji zamówienia korzystają teraz z aktualnego tytułu produktu z PrestaShop jako głównej nazwy produktu, z zachowaniem osobnej nazwy kombinacji.
+
+## [0.7.57] - 2026-04-01
+- Usunięcie przykładowej podpowiedzi z pola `HS Code` w formularzu danych produktu, aby puste pole nie sugerowało domyślnej wartości.
+
+## [0.7.56] - 2026-04-01
+- Dalsze dopracowanie popupu kalkulacji kosztu: jaśniejszy granat plakietek oraz dodanie stawki celnej do sekcji danych produktu.
+
+## [0.7.55] - 2026-04-01
+- Drobne dopracowanie popupu kalkulacji kosztu: dodanie `HS Code` do danych produktu oraz wzmocnienie wizualne strzałki `→`, żeby była spójna z pozostałymi operatorami.
+
+## [0.7.54] - 2026-04-01
+- Jaśniejsza plakietka i pole edycji dla `Narzut` w popupie kalkulacji kosztu, tak aby wyróżniały się od ciemnych pól, ale nadal pozostawały spójne z układem wzoru.
+
+## [0.7.53] - 2026-04-01
+- Aktualizacja wyglądu wzorów w popupie kalkulacji kosztu: ciemno-granatowe plakietki z jasnym tekstem, niebieskie plakietki wyników po `=`, zwężone sloty mieszczące się w jednym rzędzie oraz wyrównane szerokości dla ceny zakupu, kursu waluty, ceny w PLN i transportu 1 szt.
+
+## [0.7.52] - 2026-04-01
+- Dopracowanie czytelności wzorów w popupie kalkulacji kosztu: mocniejszy kontrast etykiet i operatorów oraz ujednolicenie stylu symboli `×`, `→`, `+`, `=`, żeby nie rozsuwały wyrównania między wierszem wzoru i obliczeń.
+
+## [0.7.51] - 2026-04-01
+- Korekta szerokości slotów i odstępów w popupie kalkulacji kosztu, tak aby wzory i wartości mieściły się w jednym rzędzie bez wychodzenia poza modal.
+
+## [0.7.50] - 2026-04-01
+- Dopracowanie popupu kalkulacji kosztu: czytelniejsze nagłówki sekcji, wyższy kontrast etykiet, stałe wyrównanie slotów etykieta/wartość we wzorach, przeniesienie kosztu transportu 1 szt. do danych produktu oraz zmiana etykiety na `Ilość w kartonie`.
+
+## [0.7.49] - 2026-04-01
+- Poszerzenie modala kalkulacji kosztu, skrócenie formatu kursu waluty do 2 miejsc po przecinku oraz usunięcie mylącej podpowiedzi `6.5` z pola stawki celnej, gdy produkt nie ma ustawionej wartości.
+
+## [0.7.48] - 2026-04-01
+- Przebudowa prezentacji kalkulacji kosztu w produktach zamówienia: układ danych produktu w 2 kolumnach, widoczny koszt transportu 1 szt., czytelne wzory z podstawionymi wartościami oraz wyliczenia marży i czystego zysku.
+
+## [0.7.47] - 2026-04-01
+- Naprawa modala kalkulacji kosztu w produktach zamówienia po poprawce liczenia transportu według wagi, tak aby popup znów otwierał się poprawnie.
+
+## [0.7.46] - 2026-04-01
+- Uporządkowanie popupu kalkulacji kosztu w produktach zamówienia: listy z liniami między wierszami, szybkiej edycji narzutu i czytelniejszego nagłówka produktu oraz kombinacji.
+- Zmiana liczenia kosztu transportu 1 szt. w kalkulacji kosztu na udział według wagi produktu względem łącznej wagi zamówienia.
+
+## [0.7.45] - 2026-04-01
+- Stabilizacja ładowania stylów w zakładce Produkty w nowoczesnym layoucie przez przeniesienie legacy CSS do sekcji `stylesheets`.
+- Odświeżanie miniaturek produktów na liście pozycji zamówienia z aktualnego obrazka kombinacji albo produktu.
+- Dodanie powiększenia zdjęcia produktu po najechaniu w liście pozycji zamówienia.
+- Dodanie automatycznego czyszczenia starych ZIP-ów w skrypcie release, z domyślnym limitem 5 najnowszych buildów.
+
 ## [0.7.44] - 2026-04-01
 - Odświeżanie EAN na liście produktów w zamówieniu z fallbackiem do aktualnego EAN kombinacji albo produktu, także dla starszych pozycji zamówień.
 - Dodanie konfiguracji remote'ów git oraz skryptów do ustawiania i wypychania repo źródłowego i repo buildów.
@@ -143,6 +217,7 @@
 - Pełne przełączenie modułu na techniczną nazwę `cargostockmanager` bez migracji danych ze starej instalacji.
 
 # Changelog
+<<<<<<< HEAD
 ## [0.7.45] - 2026-04-01
 - Stabilizacja ładowania stylów w zakładce Produkty w nowoczesnym layoucie przez przeniesienie legacy CSS do sekcji `stylesheets`.
 - Odświeżanie miniaturek produktów na liście pozycji zamówienia z aktualnego obrazka kombinacji albo produktu.
@@ -217,3 +292,5 @@
 ## [0.7.67] - 2026-04-02
 - Modal `Historia ceny` w zakładce Produkty ma teraz niższy wykres, bardziej kompaktowe kafelki statystyk, listowy układ zamówień i przewijanie zawartości przy dłuższym widoku.
 
+=======
+>>>>>>> 0f06d89 (Update builds changelog)
