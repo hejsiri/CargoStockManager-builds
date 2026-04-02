@@ -321,3 +321,6 @@
 ## [0.7.75] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` przebudowano układ linii `EN` / `PL`, żeby plakietki miały własny, bardziej przewidywalny render bez sztucznej pustej przestrzeni obok.
 
+## [0.7.76] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` plakietki `EN` i `PL` są teraz renderowane jako komórki tabeli z twardym stylem inline, co stabilizuje padding i eliminuje pustą przestrzeń obok.
+
