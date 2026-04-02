@@ -330,3 +330,7 @@
 ## [0.7.78] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` dopracowano wygląd plakietek `EN` / `PL`: większy padding wewnętrzny, mniejsze odstępy wokół i delikatne zaokrąglenie.
 
+## [0.7.80] - 2026-04-02
+- Uporządkowano wersjonowanie release i opublikowano build spójny z kodem źródłowym.
+- W obu dokumentach PDF (`Zamówienie` i `Tłumaczenie faktury`) dodano stopkę: `Wygenerowano w CargoStock Manager v.X.Y.Z`.
+
