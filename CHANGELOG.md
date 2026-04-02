@@ -324,3 +324,6 @@
 ## [0.7.76] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` plakietki `EN` i `PL` są teraz renderowane jako komórki tabeli z twardym stylem inline, co stabilizuje padding i eliminuje pustą przestrzeń obok.
 
+## [0.7.77] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` poprawiono render plakietek `EN` / `PL`, aby tło i padding dotyczyły tylko samej plakietki, bez rozciągania na całą komórkę.
+
