@@ -327,3 +327,6 @@
 ## [0.7.77] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` poprawiono render plakietek `EN` / `PL`, aby tło i padding dotyczyły tylko samej plakietki, bez rozciągania na całą komórkę.
 
+## [0.7.78] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` dopracowano wygląd plakietek `EN` / `PL`: większy padding wewnętrzny, mniejsze odstępy wokół i delikatne zaokrąglenie.
+
