@@ -359,3 +359,7 @@
 - Zmieniono prezentację wartości zakupu na jedną kolumnę `Wartość zakupu` z zapisem `netto | brutto`.
 - Uporządkowano kolejność kolumn zgodnie z aktualnym układem kalkulacji.
 
+## [0.7.87] - 2026-04-02
+- W popupie `Kalkulacja zamówienia` dopracowano układ tabeli: etykiety `Koszt całkowity` i `Cena detaliczna` przeniesiono do układu 2-liniowego (`netto | brutto`), dodano kolumnę `Wartość detaliczna netto | brutto`, a nazwa kombinacji jest zawsze w nowym wierszu pod nazwą produktu.
+- Usunięto dolny blok oddzielnych etykiet podsumowania; sumowanie pozostaje wyłącznie w tabeli (`wiersz Suma`) dla wartości detalicznych i zakupu.
+
