@@ -354,3 +354,8 @@
 - Popup pokazuje tabelę pozycji z kosztami i sprzedażą (`Ilość`, `Cena zakupu`, `Cena w PLN`, `Cło`, `Transport 1 szt.`, `Koszt całkowity netto | brutto`, `Narzut`, `Cena detaliczna netto | brutto`, `Wartość netto/brutto zakupu`, `Zysk netto`, `Marża`) oraz podsumowanie na dole.
 - W tabeli działa szybka edycja `Narzutu` per pozycja (zapis do bazy dla produktu/kombinacji) i natychmiastowe przeliczenie wartości w popupie.
 
+## [0.7.86] - 2026-04-02
+- W tabeli popupu `Kalkulacja zamówienia` uproszczono układ kolumn: usunięto `Cena zakupu`, `Cena w PLN`, `Cło` i `Transport 1 szt.`.
+- Zmieniono prezentację wartości zakupu na jedną kolumnę `Wartość zakupu` z zapisem `netto | brutto`.
+- Uporządkowano kolejność kolumn zgodnie z aktualnym układem kalkulacji.
+
