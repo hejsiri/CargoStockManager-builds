@@ -399,3 +399,6 @@
 ## [0.7.95] - 2026-04-04
 - Dopracowano proporcje przycisku `Skaner` względem `Filtry`: zmniejszono ikonę `qr_code_2` i wyrównano szerokość oraz padding przycisku.
 
+## [0.7.79] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` naprawiono renderowanie plakietek `EN` / `PL`: styl tła i paddingu przeniesiony na `<td>` zamiast `<span display:inline-block>`, co jest wymagane przez mPDF.
+
