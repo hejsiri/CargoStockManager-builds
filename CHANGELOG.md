@@ -392,3 +392,7 @@
 - Przycisk skanera ma teraz bazowy styl spójny z przyciskiem `Filtry`, a po aktywacji przechodzi w niebieski stan zgodny z kolorystyką BO.
 - Powiększono ikonę `qr_code_2` w przycisku skanera (2x) bez zmiany wysokości przycisku oraz dodano ikonę do przycisku `Filtry`.
 
+## [0.7.94] - 2026-04-04
+- Dopracowano przycisk skanera: dodano etykietę tekstową `Skaner`.
+- Poprawiono styl ikony `qr_code_2`, aby wymuszone powiększenie było widoczne (bez zmiany wysokości przycisku).
+
