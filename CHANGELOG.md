@@ -396,3 +396,6 @@
 - Dopracowano przycisk skanera: dodano etykietę tekstową `Skaner`.
 - Poprawiono styl ikony `qr_code_2`, aby wymuszone powiększenie było widoczne (bez zmiany wysokości przycisku).
 
+## [0.7.95] - 2026-04-04
+- Dopracowano proporcje przycisku `Skaner` względem `Filtry`: zmniejszono ikonę `qr_code_2` i wyrównano szerokość oraz padding przycisku.
+
