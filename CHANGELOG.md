@@ -380,3 +380,7 @@
 - W kolumnie `Produkt` nazwa kombinacji jest teraz zawsze wyświetlana w nowym wierszu pod nazwą produktu (z fallbackiem do danych wiersza tabeli).
 - Uporządkowano kolejność kolumn: `Wartość zakupu netto | brutto` przeniesiono zaraz za `Koszt całkowity netto | brutto`.
 
+## [0.7.91] - 2026-04-04
+- Naprawiono losowe pomijanie stylów CSS w zakładce `Produkty` w nowym layoucie administracyjnym.
+- Zmieniono ikonę przycisku skanera na `qr_code_2` (`material-icons-outlined`) dla lepszej czytelności funkcji skanowania kodów.
+
