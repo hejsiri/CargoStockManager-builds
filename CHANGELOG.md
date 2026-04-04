@@ -402,3 +402,6 @@
 ## [0.7.79] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` naprawiono renderowanie plakietek `EN` / `PL`: styl tła i paddingu przeniesiony na `<td>` zamiast `<span display:inline-block>`, co jest wymagane przez mPDF.
 
+## [0.7.79] - 2026-04-02
+- W PDF `Tłumaczenie Faktury` naprawiono renderowanie plakietek `EN` / `PL`: styl tła i paddingu przeniesiony na `<td>` zamiast `<span display:inline-block>`, co jest wymagane przez mPDF.
+
