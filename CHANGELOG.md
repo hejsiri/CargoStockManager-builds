@@ -384,3 +384,6 @@
 - Naprawiono losowe pomijanie stylów CSS w zakładce `Produkty` w nowym layoucie administracyjnym.
 - Zmieniono ikonę przycisku skanera na `qr_code_2` (`material-icons-outlined`) dla lepszej czytelności funkcji skanowania kodów.
 
+## [0.7.92] - 2026-04-04
+- Poprawiono ikonę przycisku skanera (`qr_code_2`), aby renderowała się poprawnie zarówno w PrestaShop 8.2, jak i 9.
+
