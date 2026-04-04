@@ -387,3 +387,8 @@
 ## [0.7.92] - 2026-04-04
 - Poprawiono ikonę przycisku skanera (`qr_code_2`), aby renderowała się poprawnie zarówno w PrestaShop 8.2, jak i 9.
 
+## [0.7.93] - 2026-04-04
+- Naprawiono błąd w `Ustawieniach`: zapis pola `Nabywca` nie nadpisuje już konfiguracji statusów zamówień i ich kolorów.
+- Przycisk skanera ma teraz bazowy styl spójny z przyciskiem `Filtry`, a po aktywacji przechodzi w niebieski stan zgodny z kolorystyką BO.
+- Powiększono ikonę `qr_code_2` w przycisku skanera (2x) bez zmiany wysokości przycisku oraz dodano ikonę do przycisku `Filtry`.
+
