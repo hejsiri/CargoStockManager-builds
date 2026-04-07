@@ -420,3 +420,6 @@
 ## [0.7.100] - 2026-04-07
 - Naprawiono układ sekcji notatek w zamówieniach towaru po wdrożeniu multiuploadu plików: przycisk `Dodaj notatkę` i kafelki notatek wracają do właściwego miejsca pod sekcją dokumentów.
 
+## [0.7.101] - 2026-04-08
+- W sekcji `Dokumenty` na widoku zamówienia dodano przycisk `Wyślij do księgowania` z popupem wyboru plików i adresem e-mail do księgowania konfigurowanym w ustawieniach modułu.
+
