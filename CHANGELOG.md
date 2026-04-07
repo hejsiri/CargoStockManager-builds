@@ -414,3 +414,6 @@
 ## [0.7.79] - 2026-04-02
 - W PDF `Tłumaczenie Faktury` naprawiono renderowanie plakietek `EN` / `PL`: styl tła i paddingu przeniesiony na `<td>` zamiast `<span display:inline-block>`, co jest wymagane przez mPDF.
 
+## [0.7.99] - 2026-04-07
+- W zamówieniach towaru upload plików obsługuje teraz multiupload: można przeciągnąć lub wybrać kilka plików naraz, a formularz pokazuje osobne pola opisu i rodzaju dokumentu dla każdego pliku.
+
