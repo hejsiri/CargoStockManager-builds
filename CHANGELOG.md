@@ -417,3 +417,6 @@
 ## [0.7.99] - 2026-04-07
 - W zamówieniach towaru upload plików obsługuje teraz multiupload: można przeciągnąć lub wybrać kilka plików naraz, a formularz pokazuje osobne pola opisu i rodzaju dokumentu dla każdego pliku.
 
+## [0.7.100] - 2026-04-07
+- Naprawiono układ sekcji notatek w zamówieniach towaru po wdrożeniu multiuploadu plików: przycisk `Dodaj notatkę` i kafelki notatek wracają do właściwego miejsca pod sekcją dokumentów.
+
