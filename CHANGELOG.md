@@ -430,3 +430,6 @@
 ## [0.7.103] - 2026-04-09
 - Poprawiono blur backdropu w bootstrapowym modalu `Edytuj dane produktu`, także dla wariantu klas `.modal-backdrop.in`.
 
+## [0.7.104] - 2026-04-09
+- Na przycisku aktualizacji dodano oznaczenie `Beta` przy wersji, gdy dostępna aktualizacja pochodzi z kanału beta.
+
