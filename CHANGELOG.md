@@ -442,3 +442,6 @@
 ## [0.7.107] - 2026-04-10
 - Poprawiono pozycjonowanie modali formularzy po ujednoliceniu animacji: okna są znów centrowane pionowo i nie zjeżdżają w dół.
 
+## [0.7.108] - 2026-04-10
+- Doprecyzowano centrowanie modalów formularzy po migracji animacji: dialogi korzystają z `modal-dialog-centered` i nie osiadają zbyt nisko.
+
