@@ -450,3 +450,7 @@
 - Ujednolicono blur, animację, obsługę klawisza `ESC`, kliknięcia w tło i zamykania przez `X` we wszystkich tych modalach.
 - Usunięto bootstrapowe sterowanie pozycją formularzowych modalów, co naprawia zbyt niskie położenie okna `Edytuj dane produktu`.
 
+## [0.7.110] - 2026-04-10
+- W modalu `Wyślij do księgowania` lista plików została przebudowana do układu tabeli spójnego z sekcją `Dokumenty` na widoku zamówienia.
+- Pierwsza kolumna używa zwykłych checkboxów w domyślnym stylu Back Office zamiast własnego układu listy.
+
