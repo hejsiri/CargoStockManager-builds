@@ -445,3 +445,8 @@
 ## [0.7.108] - 2026-04-10
 - Doprecyzowano centrowanie modalów formularzy po migracji animacji: dialogi korzystają z `modal-dialog-centered` i nie osiadają zbyt nisko.
 
+## [0.7.109] - 2026-04-10
+- Formularzowe modale w zamówieniach towaru (`Dodaj produkt`, `Edytuj dane produktu`, `Dodaj notatkę`, `Wyślij do księgowania`) korzystają teraz z tego samego customowego mechanizmu co `Kalkulacja kosztu`.
+- Ujednolicono blur, animację, obsługę klawisza `ESC`, kliknięcia w tło i zamykania przez `X` we wszystkich tych modalach.
+- Usunięto bootstrapowe sterowanie pozycją formularzowych modalów, co naprawia zbyt niskie położenie okna `Edytuj dane produktu`.
+
