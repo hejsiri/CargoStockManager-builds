@@ -454,3 +454,6 @@
 - W modalu `Wyślij do księgowania` lista plików została przebudowana do układu tabeli spójnego z sekcją `Dokumenty` na widoku zamówienia.
 - Pierwsza kolumna używa zwykłych checkboxów w domyślnym stylu Back Office zamiast własnego układu listy.
 
+## [0.7.111] - 2026-04-10
+- Checkboxy w pierwszej kolumnie tabeli modala `Wyślij do księgowania` korzystają teraz z klas `form-check` i `form-check-input`, aby łapały standardowy wygląd Back Office.
+
