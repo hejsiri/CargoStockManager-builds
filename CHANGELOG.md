@@ -460,3 +460,6 @@
 ## [0.7.112] - 2026-04-10
 - Checkboxy w modalu `Wyślij do księgowania` dostały lokalny styl wizualnie zgodny z turkusowymi checkboxami Back Office, niezależny od globalnych styli formularzy.
 
+## [0.7.113] - 2026-04-10
+- W modalu `Wyślij do księgowania` checkboxy wróciły do natywnego renderowania przeglądarki z `form-check-input`, a kolor zaznaczenia opiera się o zmienne Back Office (`--bs-primary` / `--primary`), co poprawia zgodność z motywami PrestaShop 8 i 9.
+
