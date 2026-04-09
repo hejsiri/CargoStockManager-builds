@@ -427,3 +427,6 @@
 - Dodano wybór kanału aktualizacji `Public` / `Beta` w ustawieniach modułu oraz obsługę osobnych manifestów release.
 - Ujednolicono modale w zamówieniach: blur tła, zamykanie przez `X`, `ESC` i klik w tło oraz kolorowy pasek na górnej krawędzi.
 
+## [0.7.103] - 2026-04-09
+- Poprawiono blur backdropu w bootstrapowym modalu `Edytuj dane produktu`, także dla wariantu klas `.modal-backdrop.in`.
+
