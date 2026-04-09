@@ -439,3 +439,6 @@
 ## [0.7.106] - 2026-04-09
 - Ujednolicono animacje i tło modalów w module do stylu `Kalkulacja kosztu`: wspólny blur, górny pasek i wejście `fade + translateY`.
 
+## [0.7.107] - 2026-04-10
+- Poprawiono pozycjonowanie modali formularzy po ujednoliceniu animacji: okna są znów centrowane pionowo i nie zjeżdżają w dół.
+
