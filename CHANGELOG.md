@@ -436,3 +436,6 @@
 ## [0.7.105] - 2026-04-09
 - Wzmocniono blur tła w bootstrapowym modalu `Edytuj dane produktu`, aby wyglądał tak samo jak w modalu `Kalkulacja kosztu`.
 
+## [0.7.106] - 2026-04-09
+- Ujednolicono animacje i tło modalów w module do stylu `Kalkulacja kosztu`: wspólny blur, górny pasek i wejście `fade + translateY`.
+
