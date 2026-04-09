@@ -457,3 +457,6 @@
 ## [0.7.111] - 2026-04-10
 - Checkboxy w pierwszej kolumnie tabeli modala `Wyślij do księgowania` korzystają teraz z klas `form-check` i `form-check-input`, aby łapały standardowy wygląd Back Office.
 
+## [0.7.112] - 2026-04-10
+- Checkboxy w modalu `Wyślij do księgowania` dostały lokalny styl wizualnie zgodny z turkusowymi checkboxami Back Office, niezależny od globalnych styli formularzy.
+
