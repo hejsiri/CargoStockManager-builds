@@ -433,3 +433,6 @@
 ## [0.7.104] - 2026-04-09
 - Na przycisku aktualizacji dodano oznaczenie `Beta` przy wersji, gdy dostępna aktualizacja pochodzi z kanału beta.
 
+## [0.7.105] - 2026-04-09
+- Wzmocniono blur tła w bootstrapowym modalu `Edytuj dane produktu`, aby wyglądał tak samo jak w modalu `Kalkulacja kosztu`.
+
