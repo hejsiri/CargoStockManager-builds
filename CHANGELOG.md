@@ -423,3 +423,7 @@
 ## [0.7.101] - 2026-04-08
 - W sekcji `Dokumenty` na widoku zamówienia dodano przycisk `Wyślij do księgowania` z popupem wyboru plików i adresem e-mail do księgowania konfigurowanym w ustawieniach modułu.
 
+## [0.7.102] - 2026-04-09
+- Dodano wybór kanału aktualizacji `Public` / `Beta` w ustawieniach modułu oraz obsługę osobnych manifestów release.
+- Ujednolicono modale w zamówieniach: blur tła, zamykanie przez `X`, `ESC` i klik w tło oraz kolorowy pasek na górnej krawędzi.
+
