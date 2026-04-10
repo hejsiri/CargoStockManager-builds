@@ -505,3 +505,6 @@
 - Zakładka Produkty, Akcje: popup „Wykres sprzedaży".
 - Poprawka: modal „Edytuj dane modułowe" nie otwierał się po kliknięciu (błąd zakresu funkcji formatowania waluty między blokami IIFE).
 
+## [0.7.126] - 2026-04-10
+- Zawartość popupów „Wykres sprzedaży", „Historia ceny" i „Rentowność" przepisana na układ i style `csmgr-cost-*` zgodne z „Kalkulacja kosztu" z zamówień: sekcje z tytułami, grid wierszy etykieta/wartość, stany kolorystyczne dla wartości dodatnich/ujemnych.
+
