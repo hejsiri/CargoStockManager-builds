@@ -484,3 +484,7 @@
 - W modalu `Dane modułowe produktu` nagłówek pokazuje nazwę produktu, a pod spodem pełną nazwę kombinacji.
 - W modalu `Kalkulacja kosztu` kombinacja produktu korzysta z pełnej etykiety wariantu, np. `Zapach: lawendowy`.
 
+## [0.7.120] - 2026-04-10
+- W `Ustawienia > Lista ukrytych produktów` usunięto kolumnę `Wyświetlany`.
+- Pod nazwą produktu na liście ukrytych produktów dodano nazwę kombinacji, np. `Zapach: lawendowy`.
+
