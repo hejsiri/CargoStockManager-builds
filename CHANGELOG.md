@@ -498,3 +498,6 @@
 ## [0.7.123] - 2026-04-10
 - Nagłówki modalów produktowych `Edytuj dane modułowe`, `Wykres sprzedaży`, `Historia ceny` i `Rentowność` dopasowano do stylu modala `Kalkulacja kosztu` z zamówień: mniejsza miniatura, prosty border, tytuł i kombinacja w tym samym układzie.
 
+## [0.7.124] - 2026-04-10
+- Zawartość popupa `Produkty > Edytuj dane modułowe` przebudowano na układ i style z modala `Kalkulacja kosztu`: sekcje, grid danych produktu, wiersze etykieta/wartość i uporządkowany opis.
+
