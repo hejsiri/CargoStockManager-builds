@@ -495,3 +495,6 @@
 ## [0.7.122] - 2026-04-10
 - Po instalacji aktualizacji moduł czyści cache Smarty, XML, Media i wewnętrzny cache PrestaShop, żeby zmiany w szablonach `.tpl` były widoczne od razu po aktualizacji.
 
+## [0.7.123] - 2026-04-10
+- Nagłówki modalów produktowych `Edytuj dane modułowe`, `Wykres sprzedaży`, `Historia ceny` i `Rentowność` dopasowano do stylu modala `Kalkulacja kosztu` z zamówień: mniejsza miniatura, prosty border, tytuł i kombinacja w tym samym układzie.
+
