@@ -488,3 +488,7 @@
 - W `Ustawienia > Lista ukrytych produktów` usunięto kolumnę `Wyświetlany`.
 - Pod nazwą produktu na liście ukrytych produktów dodano nazwę kombinacji, np. `Zapach: lawendowy`.
 
+## [0.7.121] - 2026-04-10
+- Ujednolicono nagłówek modala `Produkty > Edytuj dane modułowe` ze stylem modalów `Wykres sprzedaży`, `Historia ceny` i `Rentowność`: miniatura, nazwa produktu i kombinacja mają ten sam układ.
+- W modalu edycji danych modułowych ukryto EAN w nagłówku otwieranym z przycisku edycji produktu.
+
