@@ -476,3 +476,7 @@
 ## [0.7.117] - 2026-04-10
 - W modalu `Dane modułowe produktu` pola nad opisem zostały przełożone do dwóch rzędów na desktopie: pierwszy rząd zawiera model, wagę i ilość w kartonie, a drugi objętość, materiał, stawkę celną i HS Code.
 
+## [0.7.118] - 2026-04-10
+- Do modala `Dane modułowe produktu` dodano miniaturkę produktu w nagłówku z fallbackiem dla produktów bez zdjęcia.
+- W tym samym modalu `HS Code` został dopasowany do drugiego wiersza obok `Stawka celna`.
+
