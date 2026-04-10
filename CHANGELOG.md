@@ -473,3 +473,6 @@
 - Modal `Produkty > Edytuj dane modułowe` dostał spójny styl z pozostałymi modalami modułu: biały dialog, wspólny cień, pasek górny, przycisk zamknięcia i header.
 - Zachowano osobny pełnoekranowy wygląd trybu baterii skanera.
 
+## [0.7.117] - 2026-04-10
+- W modalu `Dane modułowe produktu` pola nad opisem zostały przełożone do dwóch rzędów na desktopie: pierwszy rząd zawiera model, wagę i ilość w kartonie, a drugi objętość, materiał, stawkę celną i HS Code.
+
