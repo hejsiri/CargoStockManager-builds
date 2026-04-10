@@ -492,3 +492,6 @@
 - Ujednolicono nagłówek modala `Produkty > Edytuj dane modułowe` ze stylem modalów `Wykres sprzedaży`, `Historia ceny` i `Rentowność`: miniatura, nazwa produktu i kombinacja mają ten sam układ.
 - W modalu edycji danych modułowych ukryto EAN w nagłówku otwieranym z przycisku edycji produktu.
 
+## [0.7.122] - 2026-04-10
+- Po instalacji aktualizacji moduł czyści cache Smarty, XML, Media i wewnętrzny cache PrestaShop, żeby zmiany w szablonach `.tpl` były widoczne od razu po aktualizacji.
+
