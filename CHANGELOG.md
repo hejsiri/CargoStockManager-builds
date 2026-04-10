@@ -463,3 +463,6 @@
 ## [0.7.113] - 2026-04-10
 - W modalu `Wyślij do księgowania` checkboxy wróciły do natywnego renderowania przeglądarki z `form-check-input`, a kolor zaznaczenia opiera się o zmienne Back Office (`--bs-primary` / `--primary`), co poprawia zgodność z motywami PrestaShop 8 i 9.
 
+## [0.7.114] - 2026-04-10
+- Poprawiono zamykanie modala `Połącz z produktem` dla niepowiązanych pozycji w zamówieniu: po udanym relinku stan requestu jest zapamiętywany lokalnie, a modal dostaje pewny reset i zamknięcie bez losowego „przywieszania”.
+
