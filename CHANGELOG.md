@@ -469,3 +469,7 @@
 ## [0.7.115] - 2026-04-10
 - W `Produkty > Historia ceny` ceny zakupu są teraz wyświetlane z groszami w statystykach, liście zakupów, tooltipach i osi wykresu.
 
+## [0.7.116] - 2026-04-10
+- Modal `Produkty > Edytuj dane modułowe` dostał spójny styl z pozostałymi modalami modułu: biały dialog, wspólny cień, pasek górny, przycisk zamknięcia i header.
+- Zachowano osobny pełnoekranowy wygląd trybu baterii skanera.
+
