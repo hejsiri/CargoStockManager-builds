@@ -480,3 +480,7 @@
 - Do modala `Dane modułowe produktu` dodano miniaturkę produktu w nagłówku z fallbackiem dla produktów bez zdjęcia.
 - W tym samym modalu `HS Code` został dopasowany do drugiego wiersza obok `Stawka celna`.
 
+## [0.7.119] - 2026-04-10
+- W modalu `Dane modułowe produktu` nagłówek pokazuje nazwę produktu, a pod spodem pełną nazwę kombinacji.
+- W modalu `Kalkulacja kosztu` kombinacja produktu korzysta z pełnej etykiety wariantu, np. `Zapach: lawendowy`.
+
