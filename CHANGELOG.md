@@ -466,3 +466,6 @@
 ## [0.7.114] - 2026-04-10
 - Poprawiono zamykanie modala `Połącz z produktem` dla niepowiązanych pozycji w zamówieniu: po udanym relinku stan requestu jest zapamiętywany lokalnie, a modal dostaje pewny reset i zamknięcie bez losowego „przywieszania”.
 
+## [0.7.115] - 2026-04-10
+- W `Produkty > Historia ceny` ceny zakupu są teraz wyświetlane z groszami w statystykach, liście zakupów, tooltipach i osi wykresu.
+
