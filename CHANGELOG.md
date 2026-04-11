@@ -547,3 +547,6 @@
 ## [0.7.138] - 2026-04-11
 - Poprawka: plakietki lat w nagłówku wykresu były niewidoczne (brak tła poza kontekstem panelu).
 
+## [0.7.139] - 2026-04-11
+- Popup „Wykres sprzedaży": etykieta „Miesięcznie" przed wierszami MIN/MAX/ŚRED. i Wartość / mies.
+
