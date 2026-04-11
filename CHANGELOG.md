@@ -606,3 +606,6 @@
 ## [0.7.156] - 2026-04-11
 - Modal „Rentowność": usunięto górną linię oddzielającą pierwszy wiersz w panelach.
 
+## [0.7.157] - 2026-04-11
+- Modal „Rentowność": linie separatorów w panelach mają niebieski odcień zgodny z obramowaniem.
+
