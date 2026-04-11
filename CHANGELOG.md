@@ -523,3 +523,6 @@
 ## [0.7.130] - 2026-04-11
 - Popup „Wykres sprzedaży": szacowany zysk pokazuje Sklep i Marketplace osobno, każde z wartością netto i brutto w jednym wierszu.
 
+## [0.7.131] - 2026-04-11
+- Popup „Wykres sprzedaży": wiersz MIN/MAX/ŚRED. pokazuje trzy wartości inline z etykietami zamiast w formacie x / y / z.
+
