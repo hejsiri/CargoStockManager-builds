@@ -597,3 +597,6 @@
 ## [0.7.153] - 2026-04-11
 - Modal „Rentowność": etykieta panelu sklepu pokazuje cenę w sklepie netto i brutto.
 
+## [0.7.154] - 2026-04-11
+- Modal „Rentowność": etykieta panelu Marketplace pokazuje cenę marketplace netto i brutto.
+
