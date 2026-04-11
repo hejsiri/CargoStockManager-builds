@@ -612,3 +612,6 @@
 ## [0.7.158] - 2026-04-11
 - Modal „Rentowność": panel „Cena w sklepie" ma pomarańczowe separatory i bez linii pod pierwszym wierszem.
 
+## [0.7.159] - 2026-04-11
+- Dostawcy: formularz dodawania i edycji dostawcy otwiera się w oknie modalnym z blurrem tła.
+
