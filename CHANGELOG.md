@@ -541,3 +541,6 @@
 ## [0.7.136] - 2026-04-11
 - Popup „Wykres sprzedaży": jaśniejsze złote tło panelu najstarszego roku.
 
+## [0.7.137] - 2026-04-11
+- Popup „Wykres sprzedaży": tła paneli rocznych jako gradient z góry (kolor linii) do dołu (biały), analogicznie jak wypełnienia na wykresie.
+
