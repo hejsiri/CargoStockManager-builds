@@ -514,3 +514,6 @@
 ## [0.7.128] - 2026-04-11
 - Popup „Wykres sprzedaży": każdy rok w osobnym panelu z zaokrąglonymi narożnikami i kolorowym paskiem u góry; szerokość okna powiększona do 1520 px (jak „Kalkulacja kosztu" w zamówieniach).
 
+## [0.7.128] - 2026-04-11
+- Popup „Wykres sprzedaży": każdy rok w osobnym panelu z zaokrąglonymi narożnikami i kolorowym paskiem u góry; szerokość okna powiększona do 1520 px (jak „Kalkulacja kosztu" w zamówieniach).
+
