@@ -624,3 +624,6 @@
 ## [0.7.161] - 2026-04-11
 - Modal „Rentowność": naprawiono kolory separatorów wierszy — usunięto szare linie nadpisujące kolorowe.
 
+## [0.7.162] - 2026-04-11
+- Modal „Rentowność": przywrócono separator pod pierwszym wierszem w obu panelach.
+
