@@ -578,3 +578,6 @@
 ## [0.7.147] - 2026-04-11
 - Zakładka „Produkty": modal „Rentowność" ma teraz taką samą szerokość jak „Edytuj dane modułowe".
 
+## [0.7.148] - 2026-04-11
+- Zakładka „Produkty": modal „Historia ceny" ma teraz taką samą szerokość jak „Edytuj dane modułowe".
+
