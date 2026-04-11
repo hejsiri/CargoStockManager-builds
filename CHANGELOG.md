@@ -556,3 +556,6 @@
 ## [0.7.141] - 2026-04-11
 - Popup „Wykres sprzedaży": „Szacowany zysk" rozbity na dwa spójne wiersze: „Zysk sklep" i „Zysk marketplace".
 
+## [0.7.142] - 2026-04-11
+- Popup „Wykres sprzedaży": wykres w boxie z zaokrąglonymi rogami; „PORÓWNANIE ROCZNE" i plakietki lat wewnątrz boxa; strzałki nawigacji wewnątrz boxa; legenda Chart.js zastąpiona kolorowymi plakietkami.
+
