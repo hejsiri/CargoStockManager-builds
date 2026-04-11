@@ -588,3 +588,6 @@
 ## [0.7.150] - 2026-04-11
 - Modal „Rentowność": panele „Sklep" i „Marketplace" ostylowane jak karty roczne z wykresu sprzedaży: pastelowe tło, kolorowy górny pasek, plakietka i wiersze w jednej kolumnie.
 
+## [0.7.151] - 2026-04-11
+- Modal „Rentowność": ceny i wartości pieniężne są pokazywane z groszami.
+
