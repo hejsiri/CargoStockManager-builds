@@ -544,3 +544,6 @@
 ## [0.7.137] - 2026-04-11
 - Popup „Wykres sprzedaży": tła paneli rocznych jako gradient z góry (kolor linii) do dołu (biały), analogicznie jak wypełnienia na wykresie.
 
+## [0.7.138] - 2026-04-11
+- Poprawka: plakietki lat w nagłówku wykresu były niewidoczne (brak tła poza kontekstem panelu).
+
