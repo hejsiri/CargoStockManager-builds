@@ -538,3 +538,6 @@
 ## [0.7.135] - 2026-04-11
 - Popup „Wykres sprzedaży": panele 3 lat w pastelowych tłach zgodnych z kolorami linii wykresu (złoty / błękitny / zielony).
 
+## [0.7.136] - 2026-04-11
+- Popup „Wykres sprzedaży": jaśniejsze złote tło panelu najstarszego roku.
+
