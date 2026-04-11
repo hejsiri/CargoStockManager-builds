@@ -594,3 +594,6 @@
 ## [0.7.152] - 2026-04-11
 - Modal „Rentowność": usunięto nagłówek „Ustawienia marketplace" z panelu Marketplace.
 
+## [0.7.153] - 2026-04-11
+- Modal „Rentowność": etykieta panelu sklepu pokazuje cenę w sklepie netto i brutto.
+
