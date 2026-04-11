@@ -569,3 +569,6 @@
 - Poprawka: modal „Produkty > edytuj dane modułowe" nie otwierał się przez błąd formatowania waluty w JS.
 - „Produkty w zamówieniu > Edytuj dane produktu": nagłówek modala ujednolicony 1:1 ze stylem „Kalkulacja kosztu".
 
+## [0.7.145] - 2026-04-11
+- „Produkty w zamówieniu > Edytuj dane produktu": usunięto dodatkową warstwę `modal-content`, żeby modal używał tej samej struktury karty i nagłówka co „Kalkulacja kosztu".
+
