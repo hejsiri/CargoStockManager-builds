@@ -585,3 +585,6 @@
 - Modal „Rentowność": sekcje „Sklep" i „Marketplace" pokazują się w dwóch panelach obok siebie, każda w jednej kolumnie.
 - Modal „Rentowność": ustawienia marketplace przeniesione wyżej do panelu „Marketplace" bez dodatkowego pudełka.
 
+## [0.7.150] - 2026-04-11
+- Modal „Rentowność": panele „Sklep" i „Marketplace" ostylowane jak karty roczne z wykresu sprzedaży: pastelowe tło, kolorowy górny pasek, plakietka i wiersze w jednej kolumnie.
+
