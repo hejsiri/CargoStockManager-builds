@@ -609,3 +609,6 @@
 ## [0.7.157] - 2026-04-11
 - Modal „Rentowność": linie separatorów w panelach mają niebieski odcień zgodny z obramowaniem.
 
+## [0.7.158] - 2026-04-11
+- Modal „Rentowność": panel „Cena w sklepie" ma pomarańczowe separatory i bez linii pod pierwszym wierszem.
+
