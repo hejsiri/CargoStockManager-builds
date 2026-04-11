@@ -581,3 +581,7 @@
 ## [0.7.148] - 2026-04-11
 - Zakładka „Produkty": modal „Historia ceny" ma teraz taką samą szerokość jak „Edytuj dane modułowe".
 
+## [0.7.149] - 2026-04-11
+- Modal „Rentowność": sekcje „Sklep" i „Marketplace" pokazują się w dwóch panelach obok siebie, każda w jednej kolumnie.
+- Modal „Rentowność": ustawienia marketplace przeniesione wyżej do panelu „Marketplace" bez dodatkowego pudełka.
+
