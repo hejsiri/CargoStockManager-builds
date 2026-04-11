@@ -562,3 +562,6 @@
 ## [0.7.143] - 2026-04-11
 - Popup „Wykres sprzedaży": „Mies. MIN x MAX x ŚR. x" w jednym wierszu.
 
+## [0.7.143] - 2026-04-11
+- Popup „Wykres sprzedaży": „Mies. MIN x MAX x ŚR. x" w jednym wierszu.
+
