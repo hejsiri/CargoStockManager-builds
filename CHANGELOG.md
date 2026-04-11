@@ -591,3 +591,6 @@
 ## [0.7.151] - 2026-04-11
 - Modal „Rentowność": ceny i wartości pieniężne są pokazywane z groszami.
 
+## [0.7.152] - 2026-04-11
+- Modal „Rentowność": usunięto nagłówek „Ustawienia marketplace" z panelu Marketplace.
+
