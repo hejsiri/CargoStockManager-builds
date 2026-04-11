@@ -526,3 +526,6 @@
 ## [0.7.131] - 2026-04-11
 - Popup „Wykres sprzedaży": wiersz MIN/MAX/ŚRED. pokazuje trzy wartości inline z etykietami zamiast w formacie x / y / z.
 
+## [0.7.132] - 2026-04-11
+- Popup „Wykres sprzedaży": wartości w kolumnach rocznych pogrubione.
+
