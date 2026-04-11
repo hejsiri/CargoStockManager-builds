@@ -520,3 +520,6 @@
 ## [0.7.129] - 2026-04-11
 - Popup „Wykres sprzedaży": wartość sprzedaży netto/brutto, szacowany zysk netto/brutto oraz wartość miesięczna netto/brutto — każda para w jednym wierszu.
 
+## [0.7.130] - 2026-04-11
+- Popup „Wykres sprzedaży": szacowany zysk pokazuje Sklep i Marketplace osobno, każde z wartością netto i brutto w jednym wierszu.
+
