@@ -618,3 +618,6 @@
 ## [0.7.160] - 2026-04-11
 - Modal „Rentowność": wymuszono kolorowe separatory w panelach, żeby nie przebijały szare linie z ogólnych styli.
 
+## [0.7.160] - 2026-04-11
+- Modal „Rentowność": wymuszono kolorowe separatory w panelach, żeby nie przebijały szare linie z ogólnych styli.
+
