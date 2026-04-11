@@ -508,3 +508,6 @@
 ## [0.7.126] - 2026-04-10
 - Zawartość popupów „Wykres sprzedaży", „Historia ceny" i „Rentowność" przepisana na układ i style `csmgr-cost-*` zgodne z „Kalkulacja kosztu" z zamówień: sekcje z tytułami, grid wierszy etykieta/wartość, stany kolorystyczne dla wartości dodatnich/ujemnych.
 
+## [0.7.127] - 2026-04-11
+- Popup „Wykres sprzedaży": statystyki 3 lat pokazane w 3 kolumnach obok siebie; rok jako plakietka w kolorze linii na wykresie (złoty / błękitny / zielony).
+
