@@ -572,3 +572,6 @@
 ## [0.7.145] - 2026-04-11
 - „Produkty w zamówieniu > Edytuj dane produktu": usunięto dodatkową warstwę `modal-content`, żeby modal używał tej samej struktury karty i nagłówka co „Kalkulacja kosztu".
 
+## [0.7.146] - 2026-04-11
+- Zakładka „Produkty": nagłówki modalów „Edytuj dane modułowe", „Wykres sprzedaży", „Historia ceny" i „Rentowność" ujednolicone 1:1 ze stylem modala „Kalkulacja kosztu" z zamówień.
+
