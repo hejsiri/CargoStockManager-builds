@@ -565,3 +565,7 @@
 ## [0.7.143] - 2026-04-11
 - Popup „Wykres sprzedaży": „Mies. MIN x MAX x ŚR. x" w jednym wierszu.
 
+## [0.7.144] - 2026-04-11
+- Poprawka: modal „Produkty > edytuj dane modułowe" nie otwierał się przez błąd formatowania waluty w JS.
+- „Produkty w zamówieniu > Edytuj dane produktu": nagłówek modala ujednolicony 1:1 ze stylem „Kalkulacja kosztu".
+
