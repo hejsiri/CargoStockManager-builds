@@ -553,3 +553,6 @@
 ## [0.7.140] - 2026-04-11
 - Popup „Wykres sprzedaży": tooltip wykresu w formacie „Maj 2025: 19 szt. / 1 000 zł netto / 1 230 zł brutto" — jedna linia na rok.
 
+## [0.7.141] - 2026-04-11
+- Popup „Wykres sprzedaży": „Szacowany zysk" rozbity na dwa spójne wiersze: „Zysk sklep" i „Zysk marketplace".
+
