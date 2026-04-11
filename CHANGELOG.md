@@ -532,3 +532,6 @@
 ## [0.7.133] - 2026-04-11
 - Popup „Wykres sprzedaży": lata w nagłówku wykresu jako kolorowe plakietki zgodne z kolorami linii.
 
+## [0.7.134] - 2026-04-11
+- Popup „Wykres sprzedaży": etykiety „Sklep:" i „Marketplace:" w szacowanym zysku wyszarzone jak „netto" i „brutto".
+
