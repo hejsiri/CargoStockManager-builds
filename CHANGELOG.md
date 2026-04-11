@@ -603,3 +603,6 @@
 ## [0.7.155] - 2026-04-11
 - Modal „Rentowność": poprawiono czytelność etykiet cenowych paneli, z małymi etykietami „netto" i „brutto".
 
+## [0.7.156] - 2026-04-11
+- Modal „Rentowność": usunięto górną linię oddzielającą pierwszy wiersz w panelach.
+
