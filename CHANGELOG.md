@@ -615,3 +615,6 @@
 ## [0.7.159] - 2026-04-11
 - Dostawcy: formularz dodawania i edycji dostawcy otwiera się w oknie modalnym z blurrem tła.
 
+## [0.7.160] - 2026-04-11
+- Modal „Rentowność": wymuszono kolorowe separatory w panelach, żeby nie przebijały szare linie z ogólnych styli.
+
