@@ -634,3 +634,6 @@
 - Ustawienia modułu: dodano usuwanie kopii zapasowych z potwierdzeniem.
 - Modal sprzedaży: linie separatorów w rocznych panelach 2024, 2025 i 2026 mają kolor panelu.
 
+## [0.7.165] - 2026-04-12
+- Backupy: poprawiono import paczki ZIP na czystej instalacji PrestaShop 8, gdy Symfony zgłasza brak tymczasowego pliku uploadu.
+
