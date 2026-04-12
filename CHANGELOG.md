@@ -640,3 +640,6 @@
 ## [0.7.166] - 2026-04-12
 - Backupy: import paczki ZIP nie odczytuje już pliku przez Symfony FileBag, żeby uniknąć błędu FileNotFoundException dla ścieżki tymczasowej uploadu.
 
+## [0.7.167] - 2026-04-12
+- Backupy: po przejęciu uploadu importu kontroler czyści wpis z $_FILES, żeby generowanie linków PrestaShop nie odtwarzało błędnego FileBag.
+
