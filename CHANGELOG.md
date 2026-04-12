@@ -637,3 +637,6 @@
 ## [0.7.165] - 2026-04-12
 - Backupy: poprawiono import paczki ZIP na czystej instalacji PrestaShop 8, gdy Symfony zgłasza brak tymczasowego pliku uploadu.
 
+## [0.7.166] - 2026-04-12
+- Backupy: import paczki ZIP nie odczytuje już pliku przez Symfony FileBag, żeby uniknąć błędu FileNotFoundException dla ścieżki tymczasowej uploadu.
+
