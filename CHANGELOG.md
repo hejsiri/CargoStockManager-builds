@@ -630,3 +630,7 @@
 ## [0.7.163] - 2026-04-12
 - Ustawienia modułu: dodano tworzenie, listę, pobieranie, przywracanie oraz wgrywanie kopii zapasowych danych modułu.
 
+## [0.7.164] - 2026-04-12
+- Ustawienia modułu: dodano usuwanie kopii zapasowych z potwierdzeniem.
+- Modal sprzedaży: linie separatorów w rocznych panelach 2024, 2025 i 2026 mają kolor panelu.
+
