@@ -627,3 +627,6 @@
 ## [0.7.162] - 2026-04-11
 - Modal „Rentowność": przywrócono separator pod pierwszym wierszem w obu panelach.
 
+## [0.7.163] - 2026-04-12
+- Ustawienia modułu: dodano tworzenie, listę, pobieranie, przywracanie oraz wgrywanie kopii zapasowych danych modułu.
+
