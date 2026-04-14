@@ -703,3 +703,6 @@
 ## [0.7.187] - 2026-04-14
 - Rentowność: uproszczono CSS plakietek `Zysk (netto)`, aby style widoku produktów ładowały się stabilnie.
 
+## [0.7.188] - 2026-04-14
+- Dokumentacja: dodano README modułu z opisem funkcji, instalacji, aktualizacji, kopii zapasowych i struktury technicznej.
+
