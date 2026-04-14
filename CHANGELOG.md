@@ -694,3 +694,6 @@
 ## [0.7.184] - 2026-04-14
 - Kopie zapasowe: przycisk `Przywróć` ma pełne niebieskie tło zamiast szarego obrysu.
 
+## [0.7.185] - 2026-04-14
+- Rentowność: wartości `Zysk (netto)` są prezentowane jako zielone plakietki.
+
