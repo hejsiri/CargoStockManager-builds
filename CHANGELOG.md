@@ -706,3 +706,6 @@
 ## [0.7.188] - 2026-04-14
 - Dokumentacja: dodano README modułu z opisem funkcji, instalacji, aktualizacji, kopii zapasowych i struktury technicznej.
 
+## [0.7.189] - 2026-04-15
+- Produkty: bezpośrednie wejście w legacy link zakładki przekierowuje teraz na kanoniczny kontroler, dzięki czemu panel inicjalizuje się poprawnie już przy pierwszym otwarciu.
+
