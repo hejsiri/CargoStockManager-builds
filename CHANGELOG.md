@@ -688,3 +688,6 @@
 ## [0.7.182] - 2026-04-14
 - Ustawienia: ikony w przyciskach `Dodaj przewoźnika`, `Dodaj rodzaj` i `Dodaj status` mają biały kolor.
 
+## [0.7.183] - 2026-04-14
+- Kopie zapasowe: przycisk `Usuń` ma pełne czerwone tło zamiast samego obrysu.
+
