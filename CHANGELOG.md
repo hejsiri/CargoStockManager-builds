@@ -697,3 +697,6 @@
 ## [0.7.185] - 2026-04-14
 - Rentowność: wartości `Zysk (netto)` są prezentowane jako zielone plakietki.
 
+## [0.7.186] - 2026-04-14
+- Rentowność: zielone plakietki `Zysk (netto)` używają jaśniejszego odcienia zgodnego ze switchami.
+
