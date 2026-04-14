@@ -664,3 +664,6 @@
 ## [0.7.174] - 2026-04-14
 - Menu Back Office: usunięto dodatkowe wcięcie pozycji `Zamówienia` z plakietką licznika.
 
+## [0.7.175] - 2026-04-14
+- Menu Back Office: ukryto plakietkę przy `Zamówienia`, gdy licznik wynosi `0`.
+
