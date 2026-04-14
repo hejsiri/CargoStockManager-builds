@@ -682,3 +682,6 @@
 ## [0.7.180] - 2026-04-14
 - Produkty > Historia ceny: wykres historii cen zakupu zaczyna oś Y od zera.
 
+## [0.7.181] - 2026-04-14
+- Ustawienia: ikona w przycisku `Utwórz kopię` ma biały kolor.
+
