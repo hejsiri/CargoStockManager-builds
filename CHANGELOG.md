@@ -670,3 +670,6 @@
 ## [0.7.176] - 2026-04-14
 - Menu Back Office: licznik przy `Zamówienia` obsługuje wiele statusów włączanych przełącznikiem w tabeli `Statusy zamówień`, a kolor każdej plakietki wynika z koloru statusu.
 
+## [0.7.177] - 2026-04-14
+- Menu Back Office: usunięto wpływ plakietek liczników na wcięcie pozycji `Zamówienia`.
+
