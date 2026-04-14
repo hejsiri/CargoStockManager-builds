@@ -649,3 +649,6 @@
 ## [0.7.169] - 2026-04-14
 - Menu Back Office: przywrócono pełną nazwę głównej pozycji menu `CargoStock Manager`.
 
+## [0.7.170] - 2026-04-14
+- Menu Back Office: przeniesiono licznik zamówień z głównej pozycji `CargoStock Manager` na podmenu `Zamówienia towaru` i dopasowano styl plakietki do menu Allegro.
+
