@@ -691,3 +691,6 @@
 ## [0.7.183] - 2026-04-14
 - Kopie zapasowe: przycisk `Usuń` ma pełne czerwone tło zamiast samego obrysu.
 
+## [0.7.184] - 2026-04-14
+- Kopie zapasowe: przycisk `Przywróć` ma pełne niebieskie tło zamiast szarego obrysu.
+
