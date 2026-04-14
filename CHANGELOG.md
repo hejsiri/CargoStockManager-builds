@@ -643,3 +643,6 @@
 ## [0.7.167] - 2026-04-12
 - Backupy: po przejęciu uploadu importu kontroler czyści wpis z $_FILES, żeby generowanie linków PrestaShop nie odtwarzało błędnego FileBag.
 
+## [0.7.168] - 2026-04-14
+- Menu Back Office: dodano licznik zamówień zakupowych przy pozycji CargoStock oraz ustawienie statusu zamówień liczonych w tej etykiecie.
+
