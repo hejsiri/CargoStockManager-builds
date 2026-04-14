@@ -667,3 +667,6 @@
 ## [0.7.175] - 2026-04-14
 - Menu Back Office: ukryto plakietkę przy `Zamówienia`, gdy licznik wynosi `0`.
 
+## [0.7.176] - 2026-04-14
+- Menu Back Office: licznik przy `Zamówienia` obsługuje wiele statusów włączanych przełącznikiem w tabeli `Statusy zamówień`, a kolor każdej plakietki wynika z koloru statusu.
+
