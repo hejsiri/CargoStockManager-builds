@@ -652,3 +652,6 @@
 ## [0.7.170] - 2026-04-14
 - Menu Back Office: przeniesiono licznik zamówień z głównej pozycji `CargoStock Manager` na podmenu `Zamówienia towaru` i dopasowano styl plakietki do menu Allegro.
 
+## [0.7.171] - 2026-04-14
+- Menu Back Office: poprawiono pozycjonowanie plakietki przy `Zamówienia towaru`, aby licznik był tuż przy tekście i nie zawijał etykiety.
+
