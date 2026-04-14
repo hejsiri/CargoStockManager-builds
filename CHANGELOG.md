@@ -673,3 +673,6 @@
 ## [0.7.177] - 2026-04-14
 - Menu Back Office: usunięto wpływ plakietek liczników na wcięcie pozycji `Zamówienia`.
 
+## [0.7.178] - 2026-04-14
+- Menu Back Office: pozycja `Zamówienia` zachowuje stałe wyrównanie także przy widocznych plakietkach liczników.
+
