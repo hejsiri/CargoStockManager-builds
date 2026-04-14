@@ -655,3 +655,6 @@
 ## [0.7.171] - 2026-04-14
 - Menu Back Office: poprawiono pozycjonowanie plakietki przy `Zamówienia towaru`, aby licznik był tuż przy tekście i nie zawijał etykiety.
 
+## [0.7.172] - 2026-04-14
+- Menu i zakładki: skrócono etykietę `Zamówienia towaru` do `Zamówienia`.
+
