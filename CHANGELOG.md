@@ -658,3 +658,6 @@
 ## [0.7.172] - 2026-04-14
 - Menu i zakładki: skrócono etykietę `Zamówienia towaru` do `Zamówienia`.
 
+## [0.7.173] - 2026-04-14
+- Menu Back Office: dopasowano styl licznika przy `Zamówienia` do małej plakietki używanej w menu Allegro.
+
