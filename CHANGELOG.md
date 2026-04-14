@@ -676,3 +676,6 @@
 ## [0.7.178] - 2026-04-14
 - Menu Back Office: pozycja `Zamówienia` zachowuje stałe wyrównanie także przy widocznych plakietkach liczników.
 
+## [0.7.179] - 2026-04-14
+- Menu Back Office: plakietki przy `Zamówienia` są dodawane bezpośrednio do linku menu analogicznie do licznika `Logi` w Allegro.
+
