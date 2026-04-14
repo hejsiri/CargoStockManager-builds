@@ -679,3 +679,6 @@
 ## [0.7.179] - 2026-04-14
 - Menu Back Office: plakietki przy `Zamówienia` są dodawane bezpośrednio do linku menu analogicznie do licznika `Logi` w Allegro.
 
+## [0.7.180] - 2026-04-14
+- Produkty > Historia ceny: wykres historii cen zakupu zaczyna oś Y od zera.
+
