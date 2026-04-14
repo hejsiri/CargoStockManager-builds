@@ -646,3 +646,6 @@
 ## [0.7.168] - 2026-04-14
 - Menu Back Office: dodano licznik zamówień zakupowych przy pozycji CargoStock oraz ustawienie statusu zamówień liczonych w tej etykiecie.
 
+## [0.7.169] - 2026-04-14
+- Menu Back Office: przywrócono pełną nazwę głównej pozycji menu `CargoStock Manager`.
+
