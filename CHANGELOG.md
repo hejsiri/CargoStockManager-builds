@@ -661,3 +661,6 @@
 ## [0.7.173] - 2026-04-14
 - Menu Back Office: dopasowano styl licznika przy `Zamówienia` do małej plakietki używanej w menu Allegro.
 
+## [0.7.174] - 2026-04-14
+- Menu Back Office: usunięto dodatkowe wcięcie pozycji `Zamówienia` z plakietką licznika.
+
