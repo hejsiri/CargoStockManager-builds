@@ -715,3 +715,6 @@
 ## [0.7.191] - 2026-04-16
 - Produkty: ręczne pole EAN w dymku aktywnego skanera ma białe tło i wygląd zwykłego pola tekstowego.
 
+## [0.7.192] - 2026-04-16
+- Produkty: wyszukiwanie skanerem po EAN/UPC produktu z kombinacjami nie zwraca już błędu SQL i nie pokazuje debugowych danych zapytania w modalu.
+
