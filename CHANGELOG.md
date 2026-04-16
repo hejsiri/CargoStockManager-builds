@@ -712,3 +712,6 @@
 ## [0.7.190] - 2026-04-16
 - Produkty: pole ręcznego wpisywania EAN w dymku aktywnego skanera jest ukryte pod ikoną i pokazuje się jako proste pole bez etykiety oraz dodatkowej obramówki.
 
+## [0.7.191] - 2026-04-16
+- Produkty: ręczne pole EAN w dymku aktywnego skanera ma białe tło i wygląd zwykłego pola tekstowego.
+
