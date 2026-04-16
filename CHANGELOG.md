@@ -718,3 +718,6 @@
 ## [0.7.192] - 2026-04-16
 - Produkty: wyszukiwanie skanerem po EAN/UPC produktu z kombinacjami nie zwraca już błędu SQL i nie pokazuje debugowych danych zapytania w modalu.
 
+## [0.7.192] - 2026-04-16
+- Produkty: wyszukiwanie skanerem po EAN/UPC produktu z kombinacjami nie zwraca już błędu SQL i nie pokazuje debugowych danych zapytania w modalu.
+
