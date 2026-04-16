@@ -709,3 +709,6 @@
 ## [0.7.189] - 2026-04-15
 - Produkty: bezpośrednie wejście w legacy link zakładki przekierowuje teraz na kanoniczny kontroler, dzięki czemu panel inicjalizuje się poprawnie już przy pierwszym otwarciu.
 
+## [0.7.190] - 2026-04-16
+- Produkty: pole ręcznego wpisywania EAN w dymku aktywnego skanera jest ukryte pod ikoną i pokazuje się jako proste pole bez etykiety oraz dodatkowej obramówki.
+
