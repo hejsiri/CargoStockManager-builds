@@ -852,3 +852,6 @@
 ## [0.7.224] - 2026-05-08
 - Etykiety produktów: poprawiono centrowanie kodu kreskowego EAN13 na dole PDF.
 
+## [0.7.225] - 2026-05-08
+- Etykiety produktów: dodano spójniejsze marginesy i wyrównanie zdjęcia, tekstu oraz kodu kreskowego.
+
