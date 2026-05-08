@@ -846,3 +846,6 @@
 - Produkty: wykres `Historia ceny` jest teraz wykresem słupkowym.
 - Etykiety produktów: dopasowano układ kodu kreskowego, aby nie przechodził na kolejną stronę.
 
+## [0.7.223] - 2026-05-08
+- Etykiety produktów: PDF jest wymuszany do jednej strony, kod EAN13 jest przypięty i wyśrodkowany na dole, a zdjęcie nie ma ramki ani zaokrągleń.
+
