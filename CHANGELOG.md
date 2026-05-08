@@ -849,3 +849,6 @@
 ## [0.7.223] - 2026-05-08
 - Etykiety produktów: PDF jest wymuszany do jednej strony, kod EAN13 jest przypięty i wyśrodkowany na dole, a zdjęcie nie ma ramki ani zaokrągleń.
 
+## [0.7.224] - 2026-05-08
+- Etykiety produktów: poprawiono centrowanie kodu kreskowego EAN13 na dole PDF.
+
