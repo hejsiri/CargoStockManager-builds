@@ -841,3 +841,8 @@
 ## [0.7.192] - 2026-04-16
 - Produkty: wyszukiwanie skanerem po EAN/UPC produktu z kombinacjami nie zwraca już błędu SQL i nie pokazuje debugowych danych zapytania w modalu.
 
+## [0.7.222] - 2026-05-08
+- Produkty: zamieniono ikony akcji `Historia ceny` i `Wykres sprzedaży`.
+- Produkty: wykres `Historia ceny` jest teraz wykresem słupkowym.
+- Etykiety produktów: dopasowano układ kodu kreskowego, aby nie przechodził na kolejną stronę.
+
