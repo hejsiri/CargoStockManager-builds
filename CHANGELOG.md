@@ -855,3 +855,6 @@
 ## [0.7.225] - 2026-05-08
 - Etykiety produktów: dodano spójniejsze marginesy i wyrównanie zdjęcia, tekstu oraz kodu kreskowego.
 
+## [0.7.226] - 2026-05-09
+- Etykiety produktów: poprawiono realne wyśrodkowanie zawartości PDF i jawne pozycjonowanie kodu EAN13.
+
