@@ -882,3 +882,6 @@
 ## [0.7.233] - 2026-05-10
 - Statystyki: górne krawędzie miesięcznych kafelków mają ciemniejsze szarości dopasowane do tła kafelków.
 
+## [0.7.234] - 2026-05-10
+- Statystyki: tooltip dziennego wykresu w kafelku miesięcznym jest podnoszony nad słupkiem o wysokość aktywnego słupka.
+
