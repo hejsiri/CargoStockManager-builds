@@ -897,3 +897,6 @@
 ## [0.7.238] - 2026-05-10
 - Statystyki: obniżono tooltip dziennego wykresu o wysokość dziubka, aby siedział bliżej słupka.
 
+## [0.7.239] - 2026-05-10
+- Statystyki: tooltip dziennego wykresu w kafelku miesięcznym aktywuje się po kolumnie dnia, dzięki czemu łatwiej trafić w niskie słupki.
+
