@@ -864,3 +864,6 @@
 ## [0.7.227] - 2026-05-10
 - Etykiety produktów: przebudowano układ PDF od nowa na przepływ z marginesem strony 5 mm.
 
+## [0.7.228] - 2026-05-10
+- Statystyki: dodano dzienne wykresy słupkowe sprzedaży w trzech kafelkach miesięcznych.
+
