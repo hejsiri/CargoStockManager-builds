@@ -894,3 +894,6 @@
 ## [0.7.237] - 2026-05-10
 - Statystyki: obniżono zewnętrzny tooltip dziennego wykresu tak, aby był bliżej aktywnego słupka.
 
+## [0.7.238] - 2026-05-10
+- Statystyki: obniżono tooltip dziennego wykresu o wysokość dziubka, aby siedział bliżej słupka.
+
