@@ -888,3 +888,6 @@
 ## [0.7.235] - 2026-05-10
 - Statystyki: pozycja tooltipa dziennego wykresu uwzględnia także wysokość dziubka nad aktywnym słupkiem.
 
+## [0.7.236] - 2026-05-10
+- Statystyki: dzienne wykresy w kafelkach miesięcznych używają zewnętrznego HTML tooltipa, aby dymek był pozycjonowany niezależnie od ograniczeń canvasa Chart.js.
+
