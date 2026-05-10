@@ -891,3 +891,6 @@
 ## [0.7.236] - 2026-05-10
 - Statystyki: dzienne wykresy w kafelkach miesięcznych używają zewnętrznego HTML tooltipa, aby dymek był pozycjonowany niezależnie od ograniczeń canvasa Chart.js.
 
+## [0.7.237] - 2026-05-10
+- Statystyki: obniżono zewnętrzny tooltip dziennego wykresu tak, aby był bliżej aktywnego słupka.
+
