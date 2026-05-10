@@ -870,3 +870,6 @@
 ## [0.7.229] - 2026-05-10
 - Statystyki: tooltipy dziennych wykresów słupkowych w kafelkach miesięcznych pokazują się nad słupkiem z dziubkiem skierowanym w dół.
 
+## [0.7.230] - 2026-05-10
+- Statystyki: słupki dziennych wykresów w kafelkach miesięcznych używają zieleni zgodnej z etykietą roku 2026.
+
