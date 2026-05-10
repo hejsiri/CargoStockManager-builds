@@ -876,3 +876,6 @@
 ## [0.7.231] - 2026-05-10
 - Statystyki: tooltip dziennego wykresu w kafelku miesięcznym jest pozycjonowany centralnie nad aktywnym słupkiem.
 
+## [0.7.232] - 2026-05-10
+- Statystyki: tooltip dziennego wykresu w kafelku miesięcznym jest odsuwany nad górę aktywnego słupka.
+
