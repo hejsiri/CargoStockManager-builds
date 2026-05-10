@@ -867,3 +867,6 @@
 ## [0.7.228] - 2026-05-10
 - Statystyki: dodano dzienne wykresy słupkowe sprzedaży w trzech kafelkach miesięcznych.
 
+## [0.7.229] - 2026-05-10
+- Statystyki: tooltipy dziennych wykresów słupkowych w kafelkach miesięcznych pokazują się nad słupkiem z dziubkiem skierowanym w dół.
+
