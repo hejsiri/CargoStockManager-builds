@@ -900,3 +900,6 @@
 ## [0.7.239] - 2026-05-10
 - Statystyki: tooltip dziennego wykresu w kafelku miesięcznym aktywuje się po kolumnie dnia, dzięki czemu łatwiej trafić w niskie słupki.
 
+## [0.7.240] - 2026-05-14
+- Statystyki: tooltipy sprzedaży pokazują teraz osobno sprzedane sztuki i liczbę zamówień.
+
