@@ -903,3 +903,7 @@
 ## [0.7.240] - 2026-05-14
 - Statystyki: tooltipy sprzedaży pokazują teraz osobno sprzedane sztuki i liczbę zamówień.
 
+## [0.7.241] - 2026-05-15
+- Statystyki: tooltip dziennego wykresu w kafelku miesięcznym pokazuje dzień tygodnia obok daty.
+- Statystyki: miesięczne kafelki mają rozwijany ranking najlepiej sprzedanych produktów z miniaturami i doładowaniem kolejnych pozycji.
+
