@@ -910,3 +910,7 @@
 ## [0.7.242] - 2026-05-15
 - Statystyki: wyśrodkowano numerację rankingu produktów i ustawiono regularną grubość nazw produktów.
 
+## [0.7.243] - 2026-05-15
+- Statystyki: ranking produktów w miesięcznych kafelkach pomija produkty ukryte w ustawieniach modułu.
+- Statystyki: liczby porządkowe w rankingu produktów mają regularną grubość tekstu.
+
