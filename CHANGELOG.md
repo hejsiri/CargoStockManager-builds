@@ -914,3 +914,6 @@
 - Statystyki: ranking produktów w miesięcznych kafelkach pomija produkty ukryte w ustawieniach modułu.
 - Statystyki: liczby porządkowe w rankingu produktów mają regularną grubość tekstu.
 
+## [0.7.244] - 2026-05-15
+- Statystyki: małe wykresy miesięczne skalują słupki po sprzedanych sztukach, dzięki czemu są wyraźniejsze.
+
