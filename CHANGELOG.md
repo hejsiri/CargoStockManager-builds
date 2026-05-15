@@ -907,3 +907,6 @@
 - Statystyki: tooltip dziennego wykresu w kafelku miesięcznym pokazuje dzień tygodnia obok daty.
 - Statystyki: miesięczne kafelki mają rozwijany ranking najlepiej sprzedanych produktów z miniaturami i doładowaniem kolejnych pozycji.
 
+## [0.7.242] - 2026-05-15
+- Statystyki: wyśrodkowano numerację rankingu produktów i ustawiono regularną grubość nazw produktów.
+
