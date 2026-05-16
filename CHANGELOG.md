@@ -917,3 +917,6 @@
 ## [0.7.244] - 2026-05-15
 - Statystyki: małe wykresy miesięczne skalują słupki po sprzedanych sztukach, dzięki czemu są wyraźniejsze.
 
+## [0.7.245] - 2026-05-16
+- Statystyki: małe wykresy miesięczne nadal obrazują wartość sprzedaży, ale używają czytelniejszej skali wizualnej dla niskich słupków.
+
