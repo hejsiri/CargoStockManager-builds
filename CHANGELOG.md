@@ -948,3 +948,7 @@
 - Zamówienia: przy generowaniu PDF zamówienia można wybrać język dokumentu `PL` lub `EN`.
 - Zamówienia: PDF w języku angielskim używa angielskich etykiet oraz angielskich nazw produktów i kombinacji, jeśli są dostępne w PrestaShop.
 
+## [0.7.254] - 2026-05-19
+- Zamówienia: wybór języka PDF działa jako rozwijane menu pod przyciskiem `PDF`, ze strzałką i opcjami `Polski` oraz `English`.
+- Zamówienia: w PDF wycentrowano nagłówki kolumn `EAN`, ilości, ceny jednostkowej i wartości dla wszystkich języków.
+
