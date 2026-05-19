@@ -955,3 +955,6 @@
 ## [0.7.255] - 2026-05-19
 - Zamówienia: dopasowano kolor i pozycję strzałki w przycisku rozwijanego menu `PDF`.
 
+## [0.7.256] - 2026-05-19
+- Zamówienia: menu wyboru języka PDF jest przyklejone do przycisku, ma jego szerokość i pokazuje flagi języków.
+
