@@ -952,3 +952,6 @@
 - Zamówienia: wybór języka PDF działa jako rozwijane menu pod przyciskiem `PDF`, ze strzałką i opcjami `Polski` oraz `English`.
 - Zamówienia: w PDF wycentrowano nagłówki kolumn `EAN`, ilości, ceny jednostkowej i wartości dla wszystkich języków.
 
+## [0.7.255] - 2026-05-19
+- Zamówienia: dopasowano kolor i pozycję strzałki w przycisku rozwijanego menu `PDF`.
+
