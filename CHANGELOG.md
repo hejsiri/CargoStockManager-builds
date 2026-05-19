@@ -944,3 +944,7 @@
 ## [0.7.245] - 2026-05-16
 - Statystyki: małe wykresy miesięczne nadal obrazują wartość sprzedaży, ale używają czytelniejszej skali wizualnej dla niskich słupków.
 
+## [0.7.253] - 2026-05-19
+- Zamówienia: przy generowaniu PDF zamówienia można wybrać język dokumentu `PL` lub `EN`.
+- Zamówienia: PDF w języku angielskim używa angielskich etykiet oraz angielskich nazw produktów i kombinacji, jeśli są dostępne w PrestaShop.
+
