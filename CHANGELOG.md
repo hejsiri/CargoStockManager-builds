@@ -996,3 +996,8 @@
 - Addons: uzupełniono brakujące metadane licencyjne w starym skrypcie upgrade.
 - Addons: dopasowano formatowanie JS/PHP pod kolejne wskazania validatora PrestaShop.
 
+## [0.7.266] - 2026-05-20
+- Addons: zmieniono autora i nagłówki licencyjne modułu na `Prestino`, pozostawiając dotychczasowe adresy GitHuba.
+- Addons: poprawiono kolejne reguły standardów z raportu validatora PrestaShop.
+- Techniczne: dopracowano spacing, inkrementacje i fallbacki klas Symfony/PrestaShop w kontrolerach.
+
