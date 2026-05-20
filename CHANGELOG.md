@@ -973,3 +973,7 @@
 ## [0.7.260] - 2026-05-20
 - Techniczne: ustawiono nazwę modułu w konstruktorze jako wartość literalną, aby validator PrestaShop poprawnie rozpoznawał właściwość `$this->name`.
 
+## [0.7.261] - 2026-05-20
+- Addons: usunięto nadmiarowy `config_pl.xml` z paczki modułu.
+- Addons: dodano wymagany strażnik `_PS_VERSION_` do plików PHP zgłaszanych przez validator PrestaShop.
+
