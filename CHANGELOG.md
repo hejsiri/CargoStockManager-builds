@@ -958,3 +958,6 @@
 ## [0.7.256] - 2026-05-19
 - Zamówienia: menu wyboru języka PDF jest przyklejone do przycisku, ma jego szerokość i pokazuje flagi języków.
 
+## [0.7.257] - 2026-05-20
+- Zamówienia: lista zamówień pokazuje kompaktowe miniatury produktów z każdego zamówienia, maksymalnie 10 obrazków z oznaczeniem `...` dla dłuższych list.
+
