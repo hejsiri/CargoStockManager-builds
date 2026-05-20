@@ -1001,3 +1001,7 @@
 - Addons: poprawiono kolejne reguły standardów z raportu validatora PrestaShop.
 - Techniczne: dopracowano spacing, inkrementacje i fallbacki klas Symfony/PrestaShop w kontrolerach.
 
+## [0.7.267] - 2026-05-20
+- Addons: poprawiono zmienną listy ignorowanych produktów w kwerendzie magazynowej zgłoszoną przez validator.
+- Addons: dopasowano kolejne sygnatury metod i formatowanie kontrolera wsparcia do standardów PrestaShop.
+
