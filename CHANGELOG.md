@@ -970,3 +970,6 @@
 - Maile: logo sklepu w wiadomości z dokumentami zamówienia jest osadzane w treści jako grafika, zamiast pojawiać się jako osobny załącznik.
 - Zamówienia: powiększono miniatury produktów na liście zamówień do 20 px.
 
+## [0.7.260] - 2026-05-20
+- Techniczne: ustawiono nazwę modułu w konstruktorze jako wartość literalną, aby validator PrestaShop poprawnie rozpoznawał właściwość `$this->name`.
+
