@@ -961,3 +961,8 @@
 ## [0.7.257] - 2026-05-20
 - Zamówienia: lista zamówień pokazuje kompaktowe miniatury produktów z każdego zamówienia, maksymalnie 10 obrazków z oznaczeniem `...` dla dłuższych list.
 
+## [0.7.258] - 2026-05-20
+- Zamówienia: dopasowano szerokość i rozmiar miniaturek produktów na liście, aby nie nachodziły na kolumnę daty.
+- Zamówienia: miniatury produktów na liście pokazują większy podgląd po najechaniu lub fokusie.
+- Zamówienia: odświeżono szablon maila z wysyłanymi dokumentami w stylu Modern i usunięto z bieżących tekstów odniesienia do księgowości.
+
