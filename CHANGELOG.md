@@ -977,3 +977,7 @@
 - Addons: usunięto nadmiarowy `config_pl.xml` z paczki modułu.
 - Addons: dodano wymagany strażnik `_PS_VERSION_` do plików PHP zgłaszanych przez validator PrestaShop.
 
+## [0.7.262] - 2026-05-20
+- Addons: dostosowano kontrolery Symfony do walidatora PrestaShop 9 przez użycie `PrestaShopAdminController` i atrybutów `AdminSecurity`.
+- Addons: usunięto bezpośrednie użycia `Context::getContext()` oraz jawne type-hinty `Context` z warstwy modułu.
+
