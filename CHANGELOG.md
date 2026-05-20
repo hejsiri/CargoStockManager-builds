@@ -991,3 +991,8 @@
 - Addons: dodano nagłówki licencyjne i doc commenty do plików modułu oraz bibliotek JS.
 - Addons: poprawiono fałszywy sygnał security w formatowaniu liczby w szablonie produktów.
 
+## [0.7.265] - 2026-05-20
+- Addons: usunięto nieużywany parametr z konstruktora updatera i zaktualizowano jego wywołania.
+- Addons: uzupełniono brakujące metadane licencyjne w starym skrypcie upgrade.
+- Addons: dopasowano formatowanie JS/PHP pod kolejne wskazania validatora PrestaShop.
+
