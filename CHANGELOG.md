@@ -981,3 +981,8 @@
 - Addons: dostosowano kontrolery Symfony do walidatora PrestaShop 9 przez użycie `PrestaShopAdminController` i atrybutów `AdminSecurity`.
 - Addons: usunięto bezpośrednie użycia `Context::getContext()` oraz jawne type-hinty `Context` z warstwy modułu.
 
+## [0.7.263] - 2026-05-20
+- Addons: dodano pliki `index.php` w katalogach modułu oraz rootowy `.htaccess` blokujący listowanie katalogów.
+- Addons: poprawiono escaping zmiennych JavaScript w szablonach Smarty i przeniesiono HTML hooka nagłówka BO do szablonu Smarty.
+- Addons: wyczyszczono proste ostrzeżenia kompatybilności zgłoszone przez validator, m.in. case klasy modułu, typ aktywności zakładek i zbędne fallbacki.
+
