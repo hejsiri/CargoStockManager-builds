@@ -986,3 +986,8 @@
 - Addons: poprawiono escaping zmiennych JavaScript w szablonach Smarty i przeniesiono HTML hooka nagłówka BO do szablonu Smarty.
 - Addons: wyczyszczono proste ostrzeżenia kompatybilności zgłoszone przez validator, m.in. case klasy modułu, typ aktywności zakładek i zbędne fallbacki.
 
+## [0.7.264] - 2026-05-20
+- Addons: wyczyszczono kolejne ostrzeżenia kompatybilności z raportu validatora PrestaShop.
+- Addons: dodano nagłówki licencyjne i doc commenty do plików modułu oraz bibliotek JS.
+- Addons: poprawiono fałszywy sygnał security w formatowaniu liczby w szablonie produktów.
+
