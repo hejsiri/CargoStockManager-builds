@@ -966,3 +966,7 @@
 - Zamówienia: miniatury produktów na liście pokazują większy podgląd po najechaniu lub fokusie.
 - Zamówienia: odświeżono szablon maila z wysyłanymi dokumentami w stylu Modern i usunięto z bieżących tekstów odniesienia do księgowości.
 
+## [0.7.259] - 2026-05-20
+- Maile: logo sklepu w wiadomości z dokumentami zamówienia jest osadzane w treści jako grafika, zamiast pojawiać się jako osobny załącznik.
+- Zamówienia: powiększono miniatury produktów na liście zamówień do 20 px.
+
