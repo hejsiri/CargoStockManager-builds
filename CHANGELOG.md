@@ -1013,3 +1013,6 @@
 - Ustawienia: pod przyciskiem aktualizacji dodano changelog obejmujący zakres od zainstalowanej wersji do wersji dostępnej.
 - Statystyki: raport wybranych produktów pokazuje teraz jeden box z kolumnami dla produktu, bieżącego miesiąca, ostatnich 3 miesięcy i bieżącego roku.
 
+## [0.7.270] - 2026-05-23
+- Statystyki: raport wybranych produktów domyślnie sortuje po bieżącym miesiącu i pozwala przełączyć sortowanie kliknięciem nagłówków `Ostatnie 3 miesiące` oraz `Bieżący rok`.
+
