@@ -1019,3 +1019,11 @@
 ## [0.7.271] - 2026-05-23
 - Statystyki: w raporcie wybranych produktów dodano poziome paski postępu pokazujące sprzedaną ilość względem najlepszej pozycji w danej kolumnie.
 
+## [0.7.272] - 2026-05-23
+- Statystyki: w raporcie wybranych produktów dodano poziome paski postępu pokazujące sprzedaną ilość względem najlepszej pozycji w danej kolumnie.
+- Statystyki: raport wybranych produktów domyślnie sortuje po bieżącym miesiącu i pozwala przełączyć sortowanie kliknięciem nagłówków `Ostatnie 3 miesiące` oraz `Bieżący rok`.
+- Ustawienia: pod przyciskiem aktualizacji dodano changelog obejmujący zakres od zainstalowanej wersji do wersji dostępnej.
+- Statystyki: raport wybranych produktów pokazuje teraz jeden box z kolumnami dla produktu, bieżącego miesiąca, ostatnich 3 miesięcy i bieżącego roku.
+- Statystyki: dodano raport sprzedaży wybranych produktów z miesięczną ilością oraz wartością netto i brutto.
+- Produkty: dodano oznaczanie produktów do raportu sprzedaży i licznik wybranych pozycji w pasku narzędzi.
+
