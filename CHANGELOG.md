@@ -1005,3 +1005,7 @@
 - Addons: poprawiono zmienną listy ignorowanych produktów w kwerendzie magazynowej zgłoszoną przez validator.
 - Addons: dopasowano kolejne sygnatury metod i formatowanie kontrolera wsparcia do standardów PrestaShop.
 
+## [0.7.268] - 2026-05-23
+- Statystyki: dodano raport sprzedaży wybranych produktów z miesięczną ilością oraz wartością netto i brutto.
+- Produkty: dodano oznaczanie produktów do raportu sprzedaży i licznik wybranych pozycji w pasku narzędzi.
+
