@@ -1016,3 +1016,6 @@
 ## [0.7.270] - 2026-05-23
 - Statystyki: raport wybranych produktów domyślnie sortuje po bieżącym miesiącu i pozwala przełączyć sortowanie kliknięciem nagłówków `Ostatnie 3 miesiące` oraz `Bieżący rok`.
 
+## [0.7.271] - 2026-05-23
+- Statystyki: w raporcie wybranych produktów dodano poziome paski postępu pokazujące sprzedaną ilość względem najlepszej pozycji w danej kolumnie.
+
