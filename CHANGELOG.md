@@ -1082,3 +1082,17 @@
 - Statystyki: dodano raport sprzedaży wybranych produktów z miesięczną ilością oraz wartością netto i brutto.
 - Produkty: dodano oznaczanie produktów do raportu sprzedaży i licznik wybranych pozycji w pasku narzędzi.
 
+## [0.7.278] - 2026-05-23
+- Moduł: dodano nową ikonę `logo.png` używaną w panelu modułów PrestaShop.
+- Statystyki: w raporcie wybranych produktów dodano przełączanie kierunku sortowania `↓` / `↑` oraz poprawiono warstwę podglądu zdjęcia, aby nie był ucinany.
+- Aktualizacje: poprawiono sygnatury nullable w updaterze i serwisie, aby ostrzeżenia `Deprecated` z nowszych wersji PHP nie psuły odpowiedzi JSON podczas sprawdzania aktualizacji.
+- Statystyki: raport wybranych produktów ma ciaśniejsze kolumny, niższe wiersze oraz miniatury zgodne z zakładką `Produkty`, z pierwszym zdjęciem kombinacji.
+- Statystyki: dopracowano raport wybranych produktów: wartości netto i brutto są w jednym wierszu, nazwy produktów nie są pogrubione, a stopka `Razem` nie pokazuje już pasków postępu.
+- Produkty: poprawiono pozycję licznika wybranych produktów przy przycisku `Raport` i ukrywanie licznika, gdy nic nie jest wybrane.
+- Statystyki: w raporcie wybranych produktów dodano poziome paski postępu pokazujące sprzedaną ilość względem najlepszej pozycji w danej kolumnie.
+- Statystyki: raport wybranych produktów domyślnie sortuje po bieżącym miesiącu i pozwala przełączyć sortowanie kliknięciem nagłówków `Ostatnie 3 miesiące` oraz `Bieżący rok`.
+- Ustawienia: pod przyciskiem aktualizacji dodano changelog obejmujący zakres od zainstalowanej wersji do wersji dostępnej.
+- Statystyki: raport wybranych produktów pokazuje teraz jeden box z kolumnami dla produktu, bieżącego miesiąca, ostatnich 3 miesięcy i bieżącego roku.
+- Statystyki: dodano raport sprzedaży wybranych produktów z miesięczną ilością oraz wartością netto i brutto.
+- Produkty: dodano oznaczanie produktów do raportu sprzedaży i licznik wybranych pozycji w pasku narzędzi.
+
