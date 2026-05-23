@@ -1009,3 +1009,7 @@
 - Statystyki: dodano raport sprzedaży wybranych produktów z miesięczną ilością oraz wartością netto i brutto.
 - Produkty: dodano oznaczanie produktów do raportu sprzedaży i licznik wybranych pozycji w pasku narzędzi.
 
+## [0.7.269] - 2026-05-23
+- Ustawienia: pod przyciskiem aktualizacji dodano changelog obejmujący zakres od zainstalowanej wersji do wersji dostępnej.
+- Statystyki: raport wybranych produktów pokazuje teraz jeden box z kolumnami dla produktu, bieżącego miesiąca, ostatnich 3 miesięcy i bieżącego roku.
+
