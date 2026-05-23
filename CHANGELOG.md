@@ -1,4 +1,5 @@
-## [0.7.282] - 2026-05-23
+## [0.7.283] - 2026-05-23
+- Aktualizacje: gdy zakres changeloga jest pusty, panel pokazuje pelny najnowszy wpis wersji zamiast komunikatu o braku wpisow.
 - Aktualizacje: poprawiono kodowanie polskich znakow w changelogu i zawsze sprawdzany jest nowszy podpisany manifest przez GitHub API, aby ominac cache raw GitHuba.
 - Moduł: podmieniono ikonę `logo.png` na nowszą wersję grafiki.
 - Aktualizacje: release beta publikuje teraz kanoniczny changelog z repozytorium modulu, bez doklejania kolejnych blokow na koncu pliku buildow.
