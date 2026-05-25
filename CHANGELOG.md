@@ -1,4 +1,5 @@
-## [0.7.285] - 2026-05-25
+## [0.7.286] - 2026-05-25
+- Statystyki: w tooltipie miniwykresu dziennego wiersz `Zamowienia` pokazuje sama liczbe bez powtorzonej etykiety.
 - Statystyki: tooltip miniwykresu dziennego pokazuje wartosci netto, brutto, ilosc i liczbe zamowien w osobnych wierszach.
 - Statystyki: miniwykresy dzienne w kafelkach miesiecznych maja dwa razy wyzszy obszar, dzieki czemu slupki sa czytelniejsze.
 
