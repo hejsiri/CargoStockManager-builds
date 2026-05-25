@@ -1,3 +1,7 @@
+## [0.7.285] - 2026-05-25
+- Statystyki: tooltip miniwykresu dziennego pokazuje wartosci netto, brutto, ilosc i liczbe zamowien w osobnych wierszach.
+- Statystyki: miniwykresy dzienne w kafelkach miesiecznych maja dwa razy wyzszy obszar, dzieki czemu slupki sa czytelniejsze.
+
 ## [0.7.283] - 2026-05-23
 - Aktualizacje: gdy zakres changeloga jest pusty, panel pokazuje pelny najnowszy wpis wersji zamiast komunikatu o braku wpisow.
 - Aktualizacje: poprawiono kodowanie polskich znakow w changelogu i zawsze sprawdzany jest nowszy podpisany manifest przez GitHub API, aby ominac cache raw GitHuba.
