@@ -1,4 +1,5 @@
-## [0.7.286] - 2026-05-25
+## [0.7.287] - 2026-05-25
+- Statystyki: wykres porownania rocznego pokazuje wartosc sprzedazy netto zamiast liczby sprzedanych sztuk.
 - Statystyki: w tooltipie miniwykresu dziennego wiersz `Zamowienia` pokazuje sama liczbe bez powtorzonej etykiety.
 - Statystyki: tooltip miniwykresu dziennego pokazuje wartosci netto, brutto, ilosc i liczbe zamowien w osobnych wierszach.
 - Statystyki: miniwykresy dzienne w kafelkach miesiecznych maja dwa razy wyzszy obszar, dzieki czemu slupki sa czytelniejsze.
