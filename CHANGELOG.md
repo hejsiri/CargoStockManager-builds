@@ -1,3 +1,6 @@
+## [0.7.292] - 2026-07-10
+- Produkty: poprawiono przełączniki aktywności, aby po zmianie statusu odświeżały listę i respektowały uprawnienia edycji w nowym widoku panelu.
+
 ## [0.7.287] - 2026-05-25
 - Statystyki: wykres porownania rocznego pokazuje wartosc sprzedazy netto zamiast liczby sprzedanych sztuk.
 - Statystyki: w tooltipie miniwykresu dziennego wiersz `Zamowienia` pokazuje sama liczbe bez powtorzonej etykiety.
