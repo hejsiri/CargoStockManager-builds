@@ -1,3 +1,6 @@
+## [0.7.294] - 2026-07-12
+- Aktualizacje: poprawiono kodowanie polskich znaków w changelogu wyświetlanym w panelu modułu.
+
 ## [0.7.293] - 2026-07-12
 - Produkty: przeniesiono wybór trybu wyszukiwania do rozwijanego menu pod ikoną filtrów obok przycisku czyszczenia pola.
 
