@@ -1,3 +1,7 @@
+## [0.7.300] - 2026-07-20
+
+- Wyrównano kolejne wiersze tekstu w alercie licencyjnym do wspólnej lewej krawędzi obok ikony.
+
 ## [0.7.299] - 2026-07-20
 
 - Uporządkowano odstępy w alercie o wygasłym dostępie do aktualizacji.
