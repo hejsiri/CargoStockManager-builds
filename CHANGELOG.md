@@ -1,3 +1,7 @@
+## [0.7.299] - 2026-07-20
+
+- Uporządkowano odstępy w alercie o wygasłym dostępie do aktualizacji.
+
 ## [0.7.298] - 2026-07-20
 - Aktualizacje: przy wygasłym dostępie moduł pokazuje numer dostępnej wersji, ale nie udostępnia przycisku instalacji.
 
