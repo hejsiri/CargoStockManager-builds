@@ -1,3 +1,9 @@
+## [0.7.312] - 2026-07-20
+
+- Stawka celna rozróżnia brak danych od zapisanej wartości 0%.
+- Wpisanie 0 zapisuje i wyświetla stawkę jako 0%, a wyczyszczenie pola przywraca znak „—”.
+- Ujednolicono prezentację stawki celnej na liście produktów, w skanerze i w tłumaczeniu faktury.
+
 ## [0.7.311] - 2026-07-20
 
 - Skaner produktów: objętość nie jest już automatycznie nadpisywana po samym otwarciu edycji; przeliczenie następuje dopiero po zmianie wymiaru.
