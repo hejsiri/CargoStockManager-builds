@@ -1,3 +1,8 @@
+## [0.7.296] - 2026-07-20
+- Aktualizacje i licencje: połączono moduł z API prestino.pl oraz spersonalizowanymi paczkami licencyjnymi.
+- Ustawienia: dodano status pełnej licencji i alert dostępnej aktualizacji, usuwając stary przycisk, kanały i changelog z GitHuba.
+- Produkty: dodano szybką edycję miejsca magazynowania dla produktów prostych i kombinacji.
+
 ## [0.7.295] - 2026-07-20
 - Produkty: dodano opcjonalną kolumnę „Miejsce magazynowania” dla produktów prostych i kombinacji.
 
