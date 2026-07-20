@@ -1,3 +1,8 @@
+## [0.7.305] - 2026-07-20
+
+- Skaner produktów: edycja objętości udostępnia pola m³ = D × S × W cm, tak jak na liście produktów.
+- Skaner produktów: zmiana wymiarów automatycznie przelicza objętość i zapisuje oba zestawy danych.
+
 ## [0.7.304] - 2026-07-20
 
 - Skaner produktów: kliknięcie wymiarów otwiera trzy osobne pola S × W × G z jednostką cm.
