@@ -1,3 +1,9 @@
+## [0.7.303] - 2026-07-20
+
+- Skaner produktów: przebudowano modal, dodając duże zdjęcie po lewej oraz większe, czytelniejsze dane w jednej lub dwóch kolumnach po prawej.
+- Skaner produktów: zmieniono etykietę opisu na „Opis produktu, do czego służy”.
+- Skaner produktów: usunięto podkreślenie widoczne pod polem podczas szybkiej edycji wartości.
+
 ## [0.7.302] - 2026-07-20
 
 - Usunięto dodatkowy dolny odstęp w alercie dostępnej aktualizacji, gdy pole komunikatu jest puste.
