@@ -1,3 +1,8 @@
+## [0.7.304] - 2026-07-20
+
+- Skaner produktów: kliknięcie wymiarów otwiera trzy osobne pola S × W × G z jednostką cm.
+- Skaner produktów: zapis wymiarów sprawdza komplet i poprawność wszystkich trzech wartości.
+
 ## [0.7.303] - 2026-07-20
 
 - Skaner produktów: przebudowano modal, dodając duże zdjęcie po lewej oraz większe, czytelniejsze dane w jednej lub dwóch kolumnach po prawej.
