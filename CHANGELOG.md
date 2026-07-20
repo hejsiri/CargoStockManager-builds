@@ -1,3 +1,7 @@
+## [0.7.309] - 2026-07-20
+
+- Poprawiono błąd kompilacji szablonu Smarty wywołany walidacją szybkiej edycji EAN.
+
 ## [0.7.308] - 2026-07-20
 
 - Skaner produktów: dodano miejsce magazynowania z szybką edycją dla produktów prostych i kombinacji.
