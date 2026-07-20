@@ -1,3 +1,8 @@
+## [0.7.313] - 2026-07-20
+
+- Skaner produktów: dodano cenę zakupu brutto obliczaną według stawki VAT produktu.
+- Cena zakupu brutto obsługuje szybką edycję i po zapisie automatycznie aktualizuje cenę zakupu netto.
+
 ## [0.7.312] - 2026-07-20
 
 - Stawka celna rozróżnia brak danych od zapisanej wartości 0%.
