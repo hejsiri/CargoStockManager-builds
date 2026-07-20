@@ -1,3 +1,6 @@
+## [0.7.295] - 2026-07-20
+- Produkty: dodano opcjonalną kolumnę „Miejsce magazynowania” dla produktów prostych i kombinacji.
+
 ## [0.7.294] - 2026-07-12
 - Aktualizacje: poprawiono kodowanie polskich znaków w changelogu wyświetlanym w panelu modułu.
 
