@@ -1,3 +1,8 @@
+## [0.7.301] - 2026-07-20
+
+- Wygasły dostęp do aktualizacji jest oznaczany czerwonym alertem.
+- Pomarańczowy alert pojawia się na miesiąc przed końcem aktualizacji i przypomina o możliwości odnowienia dostępu.
+
 ## [0.7.300] - 2026-07-20
 
 - Wyrównano kolejne wiersze tekstu w alercie licencyjnym do wspólnej lewej krawędzi obok ikony.
