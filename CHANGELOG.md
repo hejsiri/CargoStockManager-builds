@@ -1,3 +1,8 @@
+## [0.7.306] - 2026-07-20
+
+- Skaner produktów: dodano szybką edycję kodu EAN dla produktów prostych i kombinacji.
+- Skaner produktów: pole EAN przyjmuje maksymalnie 13 cyfr i pozwala wyczyścić zapisaną wartość.
+
 ## [0.7.305] - 2026-07-20
 
 - Skaner produktów: edycja objętości udostępnia pola m³ = D × S × W cm, tak jak na liście produktów.
