@@ -1,3 +1,7 @@
+## [0.7.297] - 2026-07-20
+- Licencje: po wygaśnięciu dostępu do aktualizacji status zmienia kolor na żółty i wyjaśnia, że moduł pozostaje aktywny bezterminowo.
+- Licencje: datę dostępu do aktualizacji skrócono do czytelnego formatu RRRR-MM-DD.
+
 ## [0.7.296] - 2026-07-20
 - Aktualizacje i licencje: połączono moduł z API prestino.pl oraz spersonalizowanymi paczkami licencyjnymi.
 - Ustawienia: dodano status pełnej licencji i alert dostępnej aktualizacji, usuwając stary przycisk, kanały i changelog z GitHuba.
