@@ -1,3 +1,9 @@
+## [0.7.311] - 2026-07-20
+
+- Skaner produktów: objętość nie jest już automatycznie nadpisywana po samym otwarciu edycji; przeliczenie następuje dopiero po zmianie wymiaru.
+- Zwiększono dokładność zapisu objętości do 9 miejsc po przecinku, aby małe wartości nie były zerowane przez zaokrąglenie.
+- Zwiększono dokładność wyświetlania objętości na liście produktów i w skanerze.
+
 ## [0.7.310] - 2026-07-20
 
 - Skaner produktów: poprawiono automatyczne przeliczanie objętości po wpisaniu wymiarów D × S × W.
