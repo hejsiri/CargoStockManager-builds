@@ -1,3 +1,7 @@
+## [0.7.302] - 2026-07-20
+
+- Usunięto dodatkowy dolny odstęp w alercie dostępnej aktualizacji, gdy pole komunikatu jest puste.
+
 ## [0.7.301] - 2026-07-20
 
 - Wygasły dostęp do aktualizacji jest oznaczany czerwonym alertem.
