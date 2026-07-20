@@ -1,3 +1,8 @@
+## [0.7.310] - 2026-07-20
+
+- Skaner produktów: poprawiono automatyczne przeliczanie objętości po wpisaniu wymiarów D × S × W.
+- Skaner produktów: pola objętości akceptują również przecinek jako separator dziesiętny.
+
 ## [0.7.309] - 2026-07-20
 
 - Poprawiono błąd kompilacji szablonu Smarty wywołany walidacją szybkiej edycji EAN.
