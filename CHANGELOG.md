@@ -1,3 +1,8 @@
+## [0.7.308] - 2026-07-20
+
+- Skaner produktów: dodano miejsce magazynowania z szybką edycją dla produktów prostych i kombinacji.
+- Skaner produktów: lokalizację magazynową można zmienić lub wyczyścić bezpośrednio w modalu.
+
 ## [0.7.307] - 2026-07-20
 
 - Skaner produktów: zmniejszono wysokość wierszy i pionowe odstępy, dzięki czemu modal jest bardziej kompaktowy bez zmniejszania tekstu.
