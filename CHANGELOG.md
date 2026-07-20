@@ -1,3 +1,7 @@
+## [0.7.307] - 2026-07-20
+
+- Skaner produktów: zmniejszono wysokość wierszy i pionowe odstępy, dzięki czemu modal jest bardziej kompaktowy bez zmniejszania tekstu.
+
 ## [0.7.306] - 2026-07-20
 
 - Skaner produktów: dodano szybką edycję kodu EAN dla produktów prostych i kombinacji.
