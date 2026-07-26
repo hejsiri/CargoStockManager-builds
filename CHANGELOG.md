@@ -1,3 +1,8 @@
+## [0.7.316] - 2026-07-26
+
+- Prognoza wyczerpania zapasu korzysta z pełnego poprzedniego miesiąca i pomija sprzedaż z miesiąca bieżącego.
+- Informacje o sprzedaży i prognozie zapasu są prezentowane w stylowanym tooltipie.
+
 ## [0.7.315] - 2026-07-26
 
 - Poprawiono ukrywanie pasków stanu magazynowego po wyłączeniu ich w ustawieniach zamówień.
