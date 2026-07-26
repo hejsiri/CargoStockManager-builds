@@ -1,3 +1,8 @@
+## [0.7.325] - 2026-07-26
+
+- Poprawiono wartość netto w kolumnie poprzedniego miesiąca raportu sprzedaży.
+- Gdy historyczna pozycja nie ma zapisanej wartości netto, raport wylicza ją z brutto i stawki VAT.
+
 ## [0.7.324] - 2026-07-26
 
 - Poprawiono przeliczanie jednostek w kolumnie poprzedniego miesiąca raportu sprzedaży.
