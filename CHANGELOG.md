@@ -1,3 +1,9 @@
+## [0.7.315] - 2026-07-26
+
+- Poprawiono ukrywanie pasków stanu magazynowego po wyłączeniu ich w ustawieniach zamówień.
+- Po najechaniu na pasek wyświetlana jest liczba sprzedanych sztuk względem ilości zamówionej.
+- Podpowiedź paska pokazuje szacowany czas i datę wyczerpania zapasu na podstawie sprzedaży z ostatnich 30 dni.
+
 ## [0.7.314] - 2026-07-26
 
 - W pozycjach zamówienia dodano pasek bieżącego stanu magazynowego względem zamówionej ilości.
