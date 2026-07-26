@@ -1,3 +1,8 @@
+## [0.7.320] - 2026-07-26
+
+- Zakładka Statystyki przelicza sprzedane opakowania na pojedyncze sztuki według parametru produktu.
+- Przeliczone wartości są używane w podsumowaniach, wykresach dziennych i miesięcznych, rankingu oraz raporcie wybranych produktów.
+
 ## [0.7.319] - 2026-07-26
 
 - Dodano parametr liczby pojedynczych sztuk w opakowaniu sprzedażowym, zapisywany osobno dla kombinacji produktu.
