@@ -1,3 +1,8 @@
+## [0.7.324] - 2026-07-26
+
+- Poprawiono przeliczanie jednostek w kolumnie poprzedniego miesiąca raportu sprzedaży.
+- Liczba jednostek jest obliczana na podstawie parametru konkretnego wariantu produktu i liczby sprzedanych sztuk.
+
 ## [0.7.323] - 2026-07-26
 
 - Statystyki nie wyświetlają informacji o pojedynczych jednostkach, gdy ich liczba wynosi zero.
