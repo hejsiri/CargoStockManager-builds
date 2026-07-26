@@ -1,3 +1,7 @@
+## [0.7.323] - 2026-07-26
+
+- Statystyki nie wyświetlają informacji o pojedynczych jednostkach, gdy ich liczba wynosi zero.
+
 ## [0.7.322] - 2026-07-26
 
 - W raporcie sprzedaży wybranych produktów dodano kolumnę poprzedniego miesiąca.
