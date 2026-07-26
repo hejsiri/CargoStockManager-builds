@@ -1,3 +1,8 @@
+## [0.7.319] - 2026-07-26
+
+- Dodano parametr liczby pojedynczych sztuk w opakowaniu sprzedażowym, zapisywany osobno dla kombinacji produktu.
+- Tooltip zapasu pokazuje przeliczoną liczbę sprzedanych pojedynczych sztuk.
+
 ## [0.7.318] - 2026-07-26
 
 - Przełącznik wyświetlania pasków stanu magazynowego dodano bezpośrednio pod tabelą produktów zamówienia.
