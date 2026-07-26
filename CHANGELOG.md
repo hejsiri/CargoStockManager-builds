@@ -1,3 +1,8 @@
+## [0.7.322] - 2026-07-26
+
+- W raporcie sprzedaży wybranych produktów dodano kolumnę poprzedniego miesiąca.
+- Kolumna pokazuje sprzedane sztuki, pojedyncze jednostki i wartości sprzedaży oraz obsługuje sortowanie i przełom roku.
+
 ## [0.7.321] - 2026-07-26
 
 - Statystyki pokazują osobno liczbę sprzedanych produktów oraz przeliczoną liczbę pojedynczych jednostek.
