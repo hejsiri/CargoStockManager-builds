@@ -1,3 +1,8 @@
+## [0.7.314] - 2026-07-26
+
+- W pozycjach zamówienia dodano pasek bieżącego stanu magazynowego względem zamówionej ilości.
+- W ustawieniach zamówień dodano możliwość włączenia lub ukrycia paska stanu magazynowego.
+
 ## [0.7.313] - 2026-07-20
 
 - Skaner produktów: dodano cenę zakupu brutto obliczaną według stawki VAT produktu.
