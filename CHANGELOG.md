@@ -1,3 +1,7 @@
+## [0.7.317] - 2026-07-26
+
+- Tooltip zapasu pokazuje procent sprzedanej ilości produktu.
+
 ## [0.7.316] - 2026-07-26
 
 - Prognoza wyczerpania zapasu korzysta z pełnego poprzedniego miesiąca i pomija sprzedaż z miesiąca bieżącego.
