@@ -1,3 +1,8 @@
+## [0.7.326] - 2026-07-26
+
+- Jednostki są ukrywane przy produktach, których parametr liczby jednostek w opakowaniu wynosi 1.
+- Dodano dodatkowe przeliczenie jednostek i wartości netto poprzedniego miesiąca po stronie raportu oraz interfejsu.
+
 ## [0.7.325] - 2026-07-26
 
 - Poprawiono wartość netto w kolumnie poprzedniego miesiąca raportu sprzedaży.
