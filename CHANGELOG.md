@@ -1,3 +1,7 @@
+## [0.7.318] - 2026-07-26
+
+- Przełącznik wyświetlania pasków stanu magazynowego dodano bezpośrednio pod tabelą produktów zamówienia.
+
 ## [0.7.317] - 2026-07-26
 
 - Tooltip zapasu pokazuje procent sprzedanej ilości produktu.
