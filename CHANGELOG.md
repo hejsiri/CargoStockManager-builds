@@ -1,3 +1,8 @@
+## [0.7.321] - 2026-07-26
+
+- Statystyki pokazują osobno liczbę sprzedanych produktów oraz przeliczoną liczbę pojedynczych jednostek.
+- Obie wartości są widoczne w podsumowaniach, kafelkach miesięcznych, rankingach, raportach wybranych produktów i tooltipach wykresów.
+
 ## [0.7.320] - 2026-07-26
 
 - Zakładka Statystyki przelicza sprzedane opakowania na pojedyncze sztuki według parametru produktu.
