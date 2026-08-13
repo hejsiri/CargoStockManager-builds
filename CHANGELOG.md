@@ -1,3 +1,8 @@
+## [0.7.333] - 2026-08-13
+
+- Paski wszystkich pozycji zamówienia korzystają ze wspólnej skali, dzięki czemu ich długości są porównywalne.
+- Długość szarej części odpowiada ilości z ostatniego zamówienia, a kolorowej aktualnemu stanowi dokładnego wariantu.
+
 ## [0.7.332] - 2026-08-13
 
 - Wymuszono wczytanie poprawionej skali pasków stanu w widoku zamówienia.
