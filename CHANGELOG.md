@@ -1,3 +1,8 @@
+## [0.7.334] - 2026-08-13
+
+- Wspólna skala pasków jest obliczana bezpośrednio w nowej wersji widoku zamówienia.
+- Wymuszono załadowanie aktualnego szablonu, aby wyeliminować starszą logikę pozostającą w pamięci serwera.
+
 ## [0.7.333] - 2026-08-13
 
 - Paski wszystkich pozycji zamówienia korzystają ze wspólnej skali, dzięki czemu ich długości są porównywalne.
