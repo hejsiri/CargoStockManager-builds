@@ -1,3 +1,8 @@
+## [0.7.335] - 2026-08-13
+
+- Naprawiono skalę pasków, która przez zakres zmiennych szablonu mogła pozostawać równa 1 i tworzyć błędne szerokości.
+- Wspólna skala jest ponownie wyliczana w przeglądarce z aktualnego stanu i ilości ostatniego zamówienia wszystkich widocznych wariantów.
+
 ## [0.7.334] - 2026-08-13
 
 - Wspólna skala pasków jest obliczana bezpośrednio w nowej wersji widoku zamówienia.
