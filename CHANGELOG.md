@@ -1,3 +1,8 @@
+## [0.7.328] - 2026-08-13
+
+- Aktualizator przechwytuje dodatkowy output PrestaShop podczas instalacji i zawsze zwraca poprawną odpowiedź JSON.
+- Usunięto mylący błąd parsowania wyświetlany po prawidłowo zakończonej aktualizacji modułu.
+
 ## [0.7.327] - 2026-08-13
 
 - Pasek stanu produktu w zamówieniu pokazuje aktualny stan magazynowy względem ilości z ostatniego zamówienia tego wariantu.
