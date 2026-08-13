@@ -1,3 +1,8 @@
+## [0.7.329] - 2026-08-13
+
+- Poprawiono składnię zapytania pobierającego ostatnie zamówienie produktu w widoku zamówień.
+- Poprawiono składnię zapytań używanych podczas edycji notatek w zamówieniu.
+
 ## [0.7.328] - 2026-08-13
 
 - Aktualizator przechwytuje dodatkowy output PrestaShop podczas instalacji i zawsze zwraca poprawną odpowiedź JSON.
