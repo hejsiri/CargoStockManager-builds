@@ -1,3 +1,8 @@
+## [0.7.332] - 2026-08-13
+
+- Wymuszono wczytanie poprawionej skali pasków stanu w widoku zamówienia.
+- Aktualizator niezawodnie zastępuje istniejące pliki modułu zawartością zweryfikowanej paczki.
+
 ## [0.7.331] - 2026-08-13
 
 - Szary pasek stanu zawsze odpowiada pełnej ilości z ostatniego zamówienia produktu.
