@@ -1,3 +1,8 @@
+## [0.7.331] - 2026-08-13
+
+- Szary pasek stanu zawsze odpowiada pełnej ilości z ostatniego zamówienia produktu.
+- Kolorowe wypełnienie pokazuje aktualny stan względem ostatniego zamówienia i zatrzymuje się na 100%, gdy stan jest większy.
+
 ## [0.7.330] - 2026-08-13
 
 - Wymuszono ponowną kompilację widoku zamówienia po aktualizacji modułu.
