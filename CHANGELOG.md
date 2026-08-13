@@ -1,3 +1,8 @@
+## [0.7.330] - 2026-08-13
+
+- Wymuszono ponowną kompilację widoku zamówienia po aktualizacji modułu.
+- Przywrócono widoczny przycisk edycji przy każdej notatce w zamówieniu.
+
 ## [0.7.329] - 2026-08-13
 
 - Poprawiono składnię zapytania pobierającego ostatnie zamówienie produktu w widoku zamówień.
