@@ -1,3 +1,9 @@
+## [0.7.327] - 2026-08-13
+
+- Pasek stanu produktu w zamówieniu pokazuje aktualny stan magazynowy względem ilości z ostatniego zamówienia tego wariantu.
+- Tooltip paska zawiera numer, datę i ilość ostatniego zamówienia oraz poprawnie obsługuje stan większy od ostatniej dostawy.
+- Dodano możliwość edycji notatek w zamówieniach wraz z informacją o dacie ostatniej zmiany.
+
 ## [0.7.326] - 2026-07-26
 
 - Jednostki są ukrywane przy produktach, których parametr liczby jednostek w opakowaniu wynosi 1.
