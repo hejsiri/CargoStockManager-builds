@@ -1,3 +1,8 @@
+## [0.7.336] - 2026-08-13
+
+- Szary pasek ostatniego zamówienia ma zawsze pełną, jednakową długość dla każdego produktu, niezależnie od zamówionej ilości.
+- Kolorowe wypełnienie pokazuje aktualny stan względem ostatniego zamówienia danego wariantu i zatrzymuje się na 100%.
+
 ## [0.7.335] - 2026-08-13
 
 - Naprawiono skalę pasków, która przez zakres zmiennych szablonu mogła pozostawać równa 1 i tworzyć błędne szerokości.
