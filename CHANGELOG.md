@@ -1,3 +1,8 @@
+## [0.7.337] - 2026-08-13
+
+- Punkt odniesienia paska pochodzi wyłącznie z ostatniego zamówienia faktycznie przyjętego do magazynu.
+- Nowe, wysłane lub oczekujące zamówienia nie wpływają na długość ani opis paska przed przyjęciem towaru.
+
 ## [0.7.336] - 2026-08-13
 
 - Szary pasek ostatniego zamówienia ma zawsze pełną, jednakową długość dla każdego produktu, niezależnie od zamówionej ilości.
