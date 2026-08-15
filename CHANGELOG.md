@@ -1,3 +1,8 @@
+## [0.7.338] - 2026-08-15
+
+- Aktualizator otrzymuje kontekst sklepu z kontrolera zamiast korzystać z globalnego `Context::getContext()`.
+- Usunięto błędy zgodności z refaktoryzacją kontekstu w PrestaShop 9 wykrywane przez oficjalny Validator.
+
 ## [0.7.337] - 2026-08-13
 
 - Punkt odniesienia paska pochodzi wyłącznie z ostatniego zamówienia faktycznie przyjętego do magazynu.
