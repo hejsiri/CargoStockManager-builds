@@ -1,3 +1,37 @@
+## [0.7.346] - 2026-08-17
+
+- Status licencji jest wyświetlany w nagłówku panelu jako badge: Aktywna, Wygasła lub Wymaga uwagi.
+
+## [0.7.344] - 2026-08-17
+
+- Uszczelniono kontrolę licencji dla pobierania danych produktów, badge zamówień i wysyłania zgłoszeń.
+- Dodano bezpieczne odświeżanie i atomową podmianę pliku licencji.
+- Wymuszono zgodność pola modułu w podpisanym tokenie licencyjnym.
+- Dodano manifest zgodności ionCube dla PHP 8.1–8.4.
+- Zautomatyzowano budowanie szyfrowanych paczek ionCube.
+
+## [0.7.343] - 2026-08-15
+
+- Usunięto puste linie przed nagłówkami licencyjnymi w plikach wskazanych przez Validator PrestaShop.
+
+## [0.7.342] - 2026-08-15
+
+- Inicjalizacja miesięcy raportu sprzedaży odbywa się przed zbudowaniem danych produktów, dzięki czemu Validator poprawnie rozpoznaje strukturę tablicy.
+
+## [0.7.341] - 2026-08-15
+
+- Usunięto uwagi zgodności wskazane przez oficjalny Validator PrestaShop.
+- Uproszczono inicjalizację danych miesięcznych, odczyt ustawienia widoczności stanu oraz wyszukiwanie zakładek modułu bez przestarzałej metody API.
+
+## [0.7.340] - 2026-08-15
+
+- Usunięto ostatnią uwagę standardów kodowania wskazaną przez oficjalny Validator PrestaShop.
+
+## [0.7.339] - 2026-08-15
+
+- Dostosowano pliki modułu wskazane przez oficjalny Validator do standardów formatowania PrestaShop.
+- Ujednolicono kwalifikowanie klas, rozmieszczenie nawiasów, odstępy i wieloliniowe listy argumentów bez zmian logiki działania.
+
 ## [0.7.338] - 2026-08-15
 
 - Aktualizator otrzymuje kontekst sklepu z kontrolera zamiast korzystać z globalnego `Context::getContext()`.
@@ -1131,6 +1165,10 @@
 
 # Changelog
 
+## [0.7.348] - 2026-08-20
+
+- Ręczne i automatyczne odświeżenia licencji są poprawnie rozróżniane w logach Prestino.
+
 ## [0.5.101] - 2026-03-28
 - Modal „Edytuj” na stronie Produkty: zawartość przebudowana wizualnie w stylu modala „Rentowność”.
 - Dane produktu, logistyki i pola dodatkowe pokazują się teraz w kartach z liniowym układem wartości, zachowując szybką edycję po kliknięciu.
@@ -1418,3 +1456,10 @@
 
 ## [0.3.72] – [0.3.83]
 - Kolejne poprawki i usprawnienia UI zamówień zakupu, tabeli produktów i panelu ustawień
+# 0.7.345
+
+- Ujednolicono panel licencji Prestino z pozostałymi modułami.
+- Dodano czytelne statusy ważności licencji, wsparcia, aktualizacji i wersji modułu.
+- Sprawdzanie dostępności aktualizacji działa także po wygaśnięciu licencji testowej.
+## [0.7.347] - 2026-08-17
+- Automatyczna kontrola licencji z Prestino odbywa się najwyżej raz na 24 godziny; przycisk odświeżania wymusza kontrolę ręczną.
