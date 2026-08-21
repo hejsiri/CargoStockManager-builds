@@ -1165,6 +1165,11 @@
 
 # Changelog
 
+## [1.8.0] - 2026-08-21
+
+- Zmieniono numerację stabilnego wydania modułu na 1.8.0.
+- Dodano nową, przezroczystą ikonę modułu Cargo Stock Manager.
+
 ## [0.7.349] - 2026-08-21
 
 - Dodano nową, przezroczystą ikonę modułu Cargo Stock Manager.
