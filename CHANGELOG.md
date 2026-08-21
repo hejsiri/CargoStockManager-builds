@@ -1165,6 +1165,10 @@
 
 # Changelog
 
+## [0.7.349] - 2026-08-21
+
+- Dodano nową, przezroczystą ikonę modułu Cargo Stock Manager.
+
 ## [0.7.348] - 2026-08-20
 
 - Ręczne i automatyczne odświeżenia licencji są poprawnie rozróżniane w logach Prestino.
