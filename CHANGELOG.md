@@ -1165,6 +1165,11 @@
 
 # Changelog
 
+## [1.8.1] - 2026-08-21
+
+- Po instalacji aktualizacji moduł usuwa nieaktualny komunikat o dostępnej wersji.
+- Ręczne odświeżenie licencji wymusza również ponowne sprawdzenie dostępności aktualizacji.
+
 ## [1.8.0] - 2026-08-21
 
 - Zmieniono numerację stabilnego wydania modułu na 1.8.0.
